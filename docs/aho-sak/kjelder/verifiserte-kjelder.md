@@ -117,3 +117,20 @@ Direktelenkjer:
 Staar att: ordrett KD-etatsstyringsbrev som kritiserer mellombelsbruken (referert
 i media, primaerdokument ikkje funne) - hent fraa regjeringen.no/innsyn. Eksakt
 2021-tal sprikar (31 vs 49 prosent) avhengig av maaltal; avklar mot DBH-tabell.
+
+## Lagra primaerdokument (filer i repoet)
+
+Desse primaerkjeldene er lasta ned og lagra under
+`docs/aho-sak/kjelder/dokument/` slik at dei er bevarte:
+
+- `riksrevisjon-forskingsetikk-2021-2022.pdf` - Riksrevisjonen Dok 1 (2021-2022).
+  Inneheld AHO ved namn + "fulgt opp dette" (stadfesta ved tekstuttrekk).
+  Underbyggjer funn C1 / brot-rad 2.
+- `nokut-tilsyn-aho-2019.pdf` - NOKUT tilsynsrapport saksnr 17/02748. Underbyggjer
+  NOKUT-funnet (brot-rad 3) om mangel ved studietilsynsforskrifta § 4-1(3).
+- `forbrukerradet-brev-regjeringen-2026-02-27.pdf` - opent brev med full
+  underskrivarliste. Underbyggjer funn B5/B6 (ingen designinstitusjon signerte).
+
+Snapshot (bilete):
+- `snapshots/khrono-spraaklov-1-7-prosent-nynorsk.jpeg` - Khrono om AHO 1,7%
+  nynorsk + rektorsitat.
