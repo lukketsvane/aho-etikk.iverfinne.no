@@ -37,6 +37,20 @@ https://web.archive.org/cdx/search/cdx?url=aho.no&matchType=domain&output=json
   &filter=urlkey:.*<mønster>.*&limit=4000
 ```
 
+## `dbh-aho-design-tidsserie.csv`
+
+Tidsseriedata frå **DBH/HK-dir** (open API, `dbh-data.dataporten-api.no`) for AHO
+(instkode 1220), 2011–2025. Kvantifiserer design-nedbygginga:
+- **MASTERID kull (møtt studiestart):** ~30 (2017–19) → **59/59/60 (2020–22)** →
+  **31/40/35 (2023–25)** — stadfestar opptrapping (korona-plassar) og reduksjon.
+- **MASTERDES (2-årig): 0 møtt 2024–25** — i praksis under utfasing.
+- AHO totalt veks 565 (2011) → 892 (2025) → design-kuttet er **relativ intern
+  omfordeling**, ikkje institusjonsvid nedgang.
+
+⚠️ AHO rapporterer all studentdata til DBH under avdelingskode `000000` — det finst
+**inga institutt-/avdelingsnedbryting**; design er rekonstruert via studieprogram-
+kode (MASTERID/MASTERDES/MASTERSOD). MASTERSOD er ofte GDPR-skjerma (<3).
+
 ## Atterhald
 
 - Snapshots er **arkivkopiar** — kontroller mot original der det er viktig; OCR/
