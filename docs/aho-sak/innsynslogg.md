@@ -9,6 +9,9 @@ Status: Sendt · Purra · Delvis innvilga · Innvilga · Avslått · Klaga.
 | (utkast klart) | AHO | GK4 oppgåvetekst + emnebeskriving (A2) | Offentleglova § 3 | - | - | Utkast: `maler/utkast/innsynskrav-aho-A2-gk4.md` |
 | (utkast klart) | AHO | Rektors avgangstale 12.06.2026 (A3) | Offentleglova § 3 | - | - | Utkast: `maler/utkast/innsynskrav-aho-A3-avgangstale.md` |
 | (utkast klart) | AHO | Vurdering av etikk-læringsutbytet (A6/A8) | Offentleglova § 3 | - | - | Utkast: `maler/utkast/innsynskrav-aho-A8-vurdering.md` |
+| (utkast klart) | AHO | Kongsberg-avtalen + saksframlegg/korrespondanse (K1) | Offentleglova § 3 | - | - | Utkast: `maler/utkast/innsynskrav-aho-K1-kongsberg.md` |
+| (utkast klart) | Datatilsynet | Vedtak/saksnr kameraovervaking 2015-2017 (D1) | Offentleglova § 3 | - | - | Utkast: `maler/utkast/innsynskrav-datatilsynet-D1-kameraovervaking.md` |
+| (utkast klart) | Kunnskapsdep. | Etatsstyringsbrev om mellombels tilsetjing (K2) | Offentleglova § 3 | - | - | Utkast: `maler/utkast/innsynskrav-aho-K2-kd-vikarbruk.md` |
 
 ## Prioriterte innsynskrav (frå påstandane)
 
