@@ -26,12 +26,12 @@ Direkte kjeldelenkjer per verifisert funn: sjå [`kjelder/verifiserte-kjelder.md
 | 2 | **Riksrevisjonen: AHO følgde ikkje opp forskingsetiske retningsliner** | Styringssvikt | Sterk | Riksrevisjonen Dok 1 (2021-2022) | Riksrevisjonen, KD |
 | 3 | **NOKUT-tilsyn 2018: mangel ved studietilsynsforskrifta § 4-1(3)** | Regelbrot | Sterk | NOKUT saksnr 17/02748 | NOKUT (4. runde 2027) |
 | 4 | **Systematisk brot på språklova (nynorskkravet)** | Regelbrot | Sterk | Språkrådets tilsyn (2023) | Språkrådet, KD |
-| 5 | **Gjentekne Riksrevisjon-merknader til økonomi/styring (2004, 2009, 2010, 2013)** | Styringssvikt | Sterk | Riksrevisjonen Dok 1 fleire år | Riksrevisjonen |
-| 6 | **Berkano AS: kommersialisering til KD trekte selskapsfullmakta** | Interessekonflikt | Sterk | Riksrevisjonen Dok 1 (2004) | (historisk) |
+| 5 | **Gjentekne Riksrevisjon-merknader til økonomi/styring (vesentlege merknader 2004, 2009 og 2011; særskild oppfølging også 2010)** | Styringssvikt | Sterk | Riksrevisjonen Dok 1 (2005-06, 2010-11, femårstabell 2014-15) | Riksrevisjonen |
+| 6 | **Berkano AS: AHO-eigd kommersialiseringsselskap; departementet trekte selskapsfullmakta (brev 13.06.2005)** | Interessekonflikt | Sterk | Riksrevisjonen Dok 1 (2005-06), s. 105-106 | (historisk) |
 | 7 | **Institusjonsavtale med Kongsberg Gruppen om sikkerheitskritisk design (2025), signert av rektor, møtt med demonstrasjon** | Interessekonflikt | Sterk | Notion-funn (kjeldeført); krev kontraktinnsyn | Offentleg, KD, innsyn |
 | 8 | **OICL: tett industri-/forsvarsnær finansiering; avtale med Kongsberg Maritime** | Interessekonflikt | Sterk | Notion-funn; OICL-partnarar (Kongsberg, ABB, GE, DNV, Lloyd's) | Offentleg, innsyn |
 | 9 | **Inga etisk vurdering (due diligence) av eksterne partnarar i nokon styresak** | Ansvarsglipe | Sterk | Fulltekst 6 styre-saksframlegg | NOKUT, offentleg |
-| 10 | **Ekstern evaluering: master i design utan forskingskurs** | Ansvarsglipe | Sterk | Ekstern programevaluering (sak 32/23, 2023) | NOKUT |
+| 10 | **Ekstern evaluering: master i design kan fullførast utan forskingsorienterte kurs (valbare, ikkje obligatoriske)** | Ansvarsglipe | Sterk | Ekstern programevaluering (Göransdotter, Umeå), AHO styresak 32/23 (14.06.2023) | NOKUT |
 | 11 | **Sektortopp på mellombels tilsetjing / vikarbruk; «lufting» av tilsette** | Styringssvikt | Sterk | DBH; gjentatt KD-kritikk (2021, 2022) | Arbeidstilsynet, KD |
 | 12 | **Studentopprør 2021: fryktkultur, helseskadeleg pedagogisk praksis** | Styringssvikt | Sterk | Khrono; Instagram-opprør; AFAG-kartlegging | Arbeidstilsynet, offentleg |
 | 13 | **Ingen norsk designskule (heller ikkje AHO) signerte Forbrukerrådet-brevet** | Faktasjekk/løftebrot | Sterk | forbrukerradet.no | Offentleg |

@@ -118,6 +118,143 @@ Staar att: ordrett KD-etatsstyringsbrev som kritiserer mellombelsbruken (referer
 i media, primaerdokument ikkje funne) - hent fraa regjeringen.no/innsyn. Eksakt
 2021-tal sprikar (31 vs 49 prosent) avhengig av maaltal; avklar mot DBH-tabell.
 
+## NOKUT-tilsyn saksnr 17/02748 - STADFESTA (primaerkjelde)
+
+NOKUT gjennomfoerte tilsyn med AHO sitt systematiske kvalitetsarbeid (pilot vaar
+2018, sju vitskaplege hoegskular; platsbesoek 11.-12. april 2018). NOKUTs styre
+vedtok 25. oktober 2018 at krav § 4-1 (3) i studietilsynsforskrifta IKKJE var
+oppfylt. Dei fem andre ledda var oppfylte. AHO retta manglane og fekk godkjent
+kvalitetsarbeidet 12. september 2019.
+
+Ordrett fraa tilsynsrapporten:
+- "Kravet er ikke oppfylt, § 4-1 (3) er ikke godkjent"
+- "... har de imidlertid ikke etablert en fast prosedyre for hvordan nye
+  studietilbud skal etableres. AHO har heller ikke noe etablert system for
+  internkontroll for aa sikre at eksisterende studietilbud oppfyller alle krav ..."
+- "Hoeyskolen har imidlertid ikke etablert et system for aa gjennomfoere
+  periodiske evalueringer av alle studietilbud, i henhold til
+  studiekvalitetsforskriften § 2-1 (2)."
+- Vedtak 12.09.2019: "Det systematiske kvalitetsarbeidet ved Arkitektur- og
+  designhoegskolen i Oslo er tilfredsstillende. Alle krav i
+  studietilsynsforskriften § 4-1 er oppfylt."
+
+Direktelenkjer:
+- NOKUT tilsynsrapport (PDF, primaer): https://www.nokut.no/globalassets/nokut/rapporter/tilsyn-kvalitetsarbeid/2019/aho-2019.pdf
+- NOKUT nyheitsmelding (godkjent): https://www.nokut.no/nyhetsarkiv/kvalitetsarbeidet-ved-arkitektur--og-designhogskolen-i-oslo-godkjent/
+
+Lagra fil: `dokument/nokut-tilsyn-aho-2019.pdf` (same sak, saksnr 17/02748).
+Underbyggjer brot-rad 3. Merk: mangelen gjaldt prosedyre for oppretting/periodisk
+evaluering av studietilbod, ikkje etikk-utbytet spesifikt.
+
+## Ekstern programevaluering, master i design (styresak 32/23) - STADFESTA
+
+AHO styremoete 14. juni 2023, sak 32/23 (dok.ref. 23/00381-1). Ekstern evaluering
+skriven av Maria Goeransdotter, lektor ved Umeaa universitet, datert 13. februar
+2023, basert paa platsbesoek ved AHO 22.-23. november 2022.
+
+Ordrett fraa evalueringa (svensk, evaluator fraa Umeaa):
+- "En student paa det 2-aariga masterprogrammet i design verkar i praktiken kunna
+  gaa igenom hela utbildningen utan att ta kurser i systemorienterad design, och
+  utan att moeta forskningsorienterade kurser."
+- "naagra paatalar en brist paa koppling till forskarnivaa."
+- Tilraading: gjere forskingsnaere/teoretiske kurs (t.d. Designteori)
+  obligatoriske heller enn valbare.
+
+Vedtak: "Styret godkjenner ekstern revidering av toaarig master i design."
+
+Presisering: forskingsorienterte kurs FINST, men er valbare, slik at ein student
+kan fullfoere utan dei. Rett ordlyd er "kan fullfoerast utan forskingsorienterte
+kurs fordi dei er valbare", ikkje at programmet heilt "manglar" slike kurs.
+
+Direktelenkje (komplett innkalling med evalueringa som vedlegg):
+- https://www.aho.no/om/organisasjon/styret/styremoter/2023/komplett_innkalling_ahos_styremote_14.06.2023_offentlig_versjon.pdf
+
+Underbyggjer brot-rad 10.
+
+## Studiebarometeret 2025 - STADFESTA
+
+AHO skaarar laagast paa fysisk laeringsmiljoe og hoegast paa tidsbruk av alle 42
+institusjonar i undersoekinga.
+
+Ordrett fraa AHO si eiga omtale:
+- "Paa fysisk laeringsmiljoe og infrastruktur finner vi derimot de laveste
+  skaarene (3,5), 0,4 poeng under nasjonalt."
+- "AHO studentene bruker i snitt 44,9 timer i uken paa studiene - mest av alle de
+  42 institusjonene i undersoekelsen."
+
+Direktelenkje:
+- AHO, Studiebarometeret lansert paa AHO (13.02.2026): https://www.aho.no/om/nyheter/aktuelt/studiebarometeret-lansert-pa-aho.html
+- Raadata (filtrer institusjon = AHO): https://www.studiebarometeret.no/
+
+Underbyggjer brot-rad 27. Staar att: same tal direkte fraa databasen + eldre
+aargangar (2023, 2024) for aa vise vedvarande moenster.
+
+## Foersteamanuensis doemd for svart arbeid (2018) - STADFESTA (einkeltperson)
+
+PRESSEETISK MERKNAD: dette gjeld ein einkeltperson, IKKJE institusjonen AHO. Teke
+med fordi mediekjelda koplar saka til AHO sine etiske retningsliner. Namn er ikkje
+offentleg i kjelda og skal ikkje etterforskast.
+
+Ein foersteamanuensis (tilsett ved AHO paa domstidspunktet) blei doemd i Oslo
+tingrett 21. juni 2018 for kjoep av svarte handverkstenester (122 660 kr; moms
+unndratt 30 665 kr). Straff: 30 dagar betinga fengsel + bot 15 000 kr. Poenget for
+saka vaar: svart arbeid var ikkje omtalt i AHO sine etiske retningsliner, og
+AHO-leiinga visste ikkje kven det gjaldt.
+
+Direktelenkje:
+- Bygg.no/Byggeindustrien (25.06.2018): https://www.bygg.no/article/1359543
+
+Underbyggjer brot-rad 26. Staar att: éi mediekjelde berre; boer kryssjekkast.
+
+## Riksrevisjonen: gjentekne merknader til AHO - STADFESTA (med korreksjon)
+
+KORREKSJON av tidlegare premiss: AHO fekk vesentlege merknader i 2004, 2009 og
+2011 (ikkje 2010 og 2013). Femaarstabellen i Dokument 1 (2014-2015), s. 84
+("Virksomheter under Kunnskapsdepartementet med vesentlige merknader de fem siste
+aarene") viser kryss for AHO berre i 2009 og 2011. For 2010 fekk AHO ikkje
+revisjonsbrev med merknad, men var under saerskild oppfoelging for oekonomistyring.
+
+Ordrett pr aar:
+- 2004 (Dok 1 2005-2006, s. 106): "AHOs regnskap for 2004 er beheftet med
+  vesentlige mangler ... svake eller manglende interne kontrollrutiner ...
+  at vesentlige forhold som oppsto etter 31. desember 2004 for datterselskapet
+  Berkano AS, ikke er innarbeidet i det avlagte aarsregnskapet."
+- 2009 (Dok 1 2010-2011, s. 196): "Riksrevisjonen har vesentlige merknader til
+  regnskapet ved Arkitektur- og designhoegskolen i Oslo (AHO). Merknadene er
+  knyttet til virksomhetsstyring, ledelseskommentarer, intern kontroll og
+  anskaffelser ... en av institusjonene som har vaert under saerskilt oppfoelging."
+- 2010 (Dok 1 2011-2012): ingen merknad, men "AHO fortsatt har oekonomiske
+  utfordringer" (hadde i fleire aar brukt meir enn tildelte loeyvingar).
+
+Direktelenkjer (Stortingets dokumentarkiv; dei eldre Dok 1 ligg ikkje lenger paa
+riksrevisjonen.no):
+- Dok 1 (2005-2006): https://www.stortinget.no/globalassets/pdf/dokumentserien/2005-2006/dok_1_2005_2006.pdf
+- Dok 1 (2010-2011): https://www.stortinget.no/globalassets/pdf/dokumentserien/2010-2011/dok1-201011.pdf
+- Dok 1 (2011-2012): https://www.stortinget.no/globalassets/pdf/dokumentserien/2011-2012/dok1-201112.pdf
+- Dok 1 (2014-2015), femaarstabell s. 84: https://www.riksrevisjonen.no/globalassets/rapporter/no-2014-2015/heledokument1.pdf
+
+Underbyggjer brot-rad 5.
+
+## Berkano AS - STADFESTA (primaerkjelde)
+
+Riksrevisjonen Dok 1 (2005-2006), s. 105-106, seksjon "Overtakelsen av Berkano AS".
+Berkano AS vart stifta 21. desember 2001 av tre tilsette ved AHO + to eksterne for
+aa marknadsfoere AHO-teknologien Rapid Prototyping. AHO overtok alle aksjane juni
+2004. Departementet trekte fullmakta i brev 13. juni 2005; selskapet avvikla 30.
+juni 2005 etter drift med tap.
+
+Ordrett:
+- "I juni 2004 overtok AHO alle aksjene i Berkano AS."
+- "I brev av 13. juni 2005 ble AHOs fullmakt til aa opprette eller medvirke i egne
+  rettssubjekter trukket tilbake."
+- "man har trukket tilbake Arkitektur- og designhoegskolens fullmakt til aa erverve
+  eierposisjoner som foelge av hoegskolens haandtering av forholdet til Berkano AS."
+
+Direktelenkje:
+- Dok 1 (2005-2006): https://www.stortinget.no/globalassets/pdf/dokumentserien/2005-2006/dok_1_2005_2006.pdf
+
+Underbyggjer brot-rad 6.
+
 ## Lagra primaerdokument (filer i repoet)
 
 Desse primaerkjeldene er lasta ned og lagra under
