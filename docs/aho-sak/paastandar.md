@@ -12,7 +12,7 @@ Strukturert uttrekk frå brevet til Killi og Notion-materialet. Kvar påstand sk
 
 | # | Påstand | Status | Funn i runde 1 / korleis verifisere vidare |
 | --- | --- | --- | --- |
-| A1 | Sept 2025: designstudentar til «C4» (antiterroravd., politiet Amsterdam); «ask proactively … live demo!»; demo av Raffinaderij (Palantir) | 🔴 | **Ikkje eksternt stadfesta**: open kjelde finn inga «C4»-eining og inga demo sept 2025 (næraste: RTIC). → innsyn i AHOs ekskursjonsdokument; ton ned «C4» til det primærkjelda viser |
+| A1 | Sept 2025: designstudentar til «C4» (antiterroravd., politiet Amsterdam); «ask proactively … live demo!»; demo av Raffinaderij (Palantir) | 🟢 | **Stadfesta — førstehandskjelde**: forfattaren var til stades med heile klassen (fleire vitne), og **lærarane har innrømt** ekskursjonen/demoen. Lærarane forklarte at dei **ikkje var klar over koplinga** til overvakingsproduktet — eit eige poeng (fagmiljøet førte studentane dit utan å vite kva det var). Open kjelde fann ikkje «C4» eksternt, men det endrar ikkje førstehandsstadfestinga. Hent skriftleg via innsyn (A1-utkast) for publisering |
 | A2 | GK4-oppgåve bad om å «legge til en bærekraftshandling i designet» | 🔴 | Innsyn i GK4 oppgåvetekst/emnebeskriving |
 | A3 | Rektor, avgangsseremoni 12.06.2026: «menneskelig» teknologi; berekraft «ikke et tillegg … men en del av det» | 🔴 | Tale/opptak/manus |
 | A4 | Rektor: kritisk tenking «nettopp dette som kjennetegner utdanningene våre» | 🟢 | **Stadfesta** — rektor Irene Alma Lønne, arkitektur.no 23.04.2026 (direkte sitat) |

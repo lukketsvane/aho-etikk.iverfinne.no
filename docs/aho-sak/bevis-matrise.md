@@ -10,7 +10,7 @@ treng innsyn · ⛔ avkrefta/overdrive. Styrke: Sterk / Medium / Svak.
 
 | ID | Påstand | Status | Styrke | Primærkjelde / korleis vidare |
 | --- | --- | --- | --- | --- |
-| A1 | Sept 2025: designstudentar til «C4» (politiet Amsterdam); «live demo» av Palantir | 🔴 | Svak | «C4»/demo ikkje eksternt stadfesta (nær: RTIC). Innsyn til AHO (`maler/utkast/A1`) |
+| A1 | Sept 2025: designstudentar til «C4» (politiet Amsterdam); «live demo» av Palantir | 🟢 | Sterk (munnleg) | **Stadfesta førstehands** (forfattar + klasse som vitne; lærarane har innrømt). Lærarane var **ikkje klar over koplinga** — eige poeng. Skriftleg via innsyn (`maler/utkast/A1`) styrkar vidare |
 | A2 | GK4-oppgåve bad om «legge til en bærekraftshandling i designet» | 🔴 | — | Innsyn til AHO (`A2`) |
 | A3 | Rektor avgangstale 12.06.2026: «menneskelig» teknologi; berekraft «ikke et tillegg» | 🔴 | — | Innsyn/opptak (`A3`) |
 | A4 | Rektor: kritisk tenking «kjennetegner utdanningene våre» | 🟢 | Medium | Rektor Irene Alma Lønne, arkitektur.no 23.04.2026 |

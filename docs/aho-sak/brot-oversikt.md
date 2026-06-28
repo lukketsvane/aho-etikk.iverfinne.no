@@ -44,7 +44,7 @@ Styrke: 🟢 Sterk (primærkjeldefesta, toler tilsvar) · 🟡 Medium (krev litt
 | 16 | Strategien «Å forme fremtiden»/jubileum: lovnad om ansvar vs. avlyste debattar | Løftebrot | 🟡 | AHO strategi; avlyst Fehn-debatt, AHO Works |
 | 17 | Sjølvakkreditering: NOKUT kontrollerer systemet, ikkje om etikk-utbytet vert levert | Ansvarsglipe | 🟡→🟢 | UH-lova § 3-4/3-5 |
 | 18 | Datatilsynet refsa AHO for dårleg skilting av overvakingskamera (2017) | Regelbrot | 🟡 | Datatilsynet (ironisk gitt overvakingskritikken) |
-| 19 | Studietur til Palantir-kontrollrom (Amsterdam) utan reservasjonsrett | Ansvarsglipe | 🟡/🔴 | Brev; **«C4»/demo ikkje eksternt stadfesta** → innsyn AHO |
+| 19 | **Studietur til Palantir-kontrollrom («C4», Amsterdam) — stadfesta; lærarane innrømte, men var ikkje klar over koplinga** | Ansvarsglipe | 🟢 | **Førstehands** (forfattar + klasse; lærarinnrømming). Tier-1-grad. Skriftleg via innsyn (A1) |
 | 20 | Forskingsetisk redelegheitsutval dekkjer ikkje design/eksternsamarbeid | Ansvarsglipe | 🟡 | AHO; Riksrevisjon-kopling |
 | 21 | Etikk vert aldri vurdert i noko designemne | Regelbrot | 🟡 | Emnekatalog → innsyn (A8) |
 | 22 | Færre fordjupings-/studieplassar enn førsteval, ikkje opplyst | Løftebrot | 🟡 | Studieinfo; DBH |
