@@ -9,8 +9,8 @@
 
 | Rolle | Eining | Offentleg relevans |
 | --- | --- | --- |
-| Instituttleiar, Institutt for design | AHO | Mottakar av brevet; fagleg ansvar for designutdanninga |
-| Rektor | AHO | Offentlege utsegner om etikk/berekraft (A3–A5) |
+| Steinar Killi, instituttleiar Institutt for design | AHO | Mottakar av brevet; fagleg ansvar for designutdanninga |
+| Irene Alma Lønne, rektor | AHO | Offentlege utsegner om etikk/berekraft (A3–A5, stadfesta) |
 | Kunnskapsdepartementet | Stat | Etatsstyring av AHO; mottakar av studieplan-lovnad |
 | NOKUT | Stat | Tilsyn/akkreditering UH-sektor |
 | Forbrukerrådet | Stat | Enshittification-rapport/brev (B5) |

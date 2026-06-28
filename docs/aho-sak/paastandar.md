@@ -6,20 +6,24 @@ Strukturert uttrekk frå brevet til Killi og Notion-materialet. Kvar påstand sk
 
 ## A. AHO-spesifikke, etterprøvbare påstandar (kjernen)
 
-| # | Påstand | Status | Korleis verifisere | Kjelde |
-| --- | --- | --- | --- | --- |
-| A1 | Sept 2025: Institutt for design tok designstudentar til C4 (antiterroravd., politiet Amsterdam); skriftleg oppmoding «ask proactively, and they might show you a live demo!»; demo av Raffinaderij (Palantir) | 🔴 | Ekskursjonsprogram, e-post, reisedokument; innsynskrav til AHO | Brev til Killi |
-| A2 | GK4-semesteroppgåve bad om å «legge til en bærekraftshandling i designet» | 🔴 | Oppgåvetekst GK4; innsyn i emnebeskriving | Brev til Killi |
-| A3 | Rektor, avgangsseremoni 12.06.2026: «hvordan gjør vi teknologien mer menneskelig?» og sosial berekraft «ikke et tillegg … men en del av det» | 🔴 | Tale/opptak/manus frå seremonien | Brev til Killi |
-| A4 | Rektor til søkjarar (april 2026): kritisk tenking «nettopp dette som kjennetegner utdanningene våre» | 🔴 | aho.no, opptakskampanje, arkivert nettside (Wayback) | Brev til Killi |
-| A5 | AHO marknadsfører: «et selvfølgelig valg for dem som vil jobbe for en sosialt og klimamessig bærekraftig framtid» | 🔴 | aho.no marknadstekst; Wayback | Brev til Killi |
-| A6 | Studieplan/kvalifikasjonsrammeverk nivå 7: kandidaten «kan analysere relevante fag-, yrkes- og forskningsetiske problemstillinger» (lovpålagt via UH-lova) | 🟡 | Studieplan master design (AHO); Forskrift om nasjonalt kvalifikasjonsrammeverk; UH-lova — slå opp i Lovdata-indeksen | Brev + rammeverk |
-| A7 | Studietilsynsforskrifta § 2-2: vurderinga skal kunne påvise læringsutbytet | 🟡 | Studietilsynsforskrifta (NOKUT) i Lovdata | Brev + forskrift |
-| A8 | Etikk-læringsutbytet vert ikkje undervist som krav, ikkje prøvd, ingen karakter, ingen organ/prosedyre/skjema måler det | 🔴 | Emnebeskrivingar, sensurordning, vurderingskriterium; innsynskrav | Brev til Killi |
-| A9 | AHO akkrediterer sin eigen designmaster; einaste eksterne kontroll er tilsyn med kvalitetssystemet, ikkje med om etikk-utbytet vert levert | 🟡 | NOKUT akkrediteringsstatus; UH-lova om sjølvakkreditering | Brev + NOKUT |
-| A10 | AHO har ikkje noko etisk organ / bindande retningsliner / sanksjonsinstans for designutdanninga | 🔴 | AHO styringsdokument, kvalitetssystem, reglement; innsynskrav | Brev til Killi |
-| A11 | Kartlegging av 78 design-/arkitekturskular i Norden: AHO éin av berre 2 utan offentleg prosedyre/krav om etisk vurdering av eksterne samarbeid | 🟡 | Eigen benchmark — sjå [`etikk-benchmark.md`](etikk-benchmark.md) (Notion-DB) | Eiga kartlegging |
-| A12 | Kronikkutkast (upublisert) har samla fleire dusin studentunderskrifter + 7 faglærarar ved AHO/KHiO | 🟡 | Underskriftsliste (internt) | Forfattaren |
+> **Oppdatert etter researchrunde 1 (28.06.2026)** — sjå
+> [`research/2026-06-28-runde-1.md`](research/2026-06-28-runde-1.md). Status: 🟢 stadfesta
+> · 🟡 delvis/nyansert · 🔴 uverifisert · ⛔ overdrive/avkrefta.
+
+| # | Påstand | Status | Funn i runde 1 / korleis verifisere vidare |
+| --- | --- | --- | --- |
+| A1 | Sept 2025: designstudentar til «C4» (antiterroravd., politiet Amsterdam); «ask proactively … live demo!»; demo av Raffinaderij (Palantir) | 🔴 | **Ikkje eksternt stadfesta**: open kjelde finn inga «C4»-eining og inga demo sept 2025 (næraste: RTIC). → innsyn i AHOs ekskursjonsdokument; ton ned «C4» til det primærkjelda viser |
+| A2 | GK4-oppgåve bad om å «legge til en bærekraftshandling i designet» | 🔴 | Innsyn i GK4 oppgåvetekst/emnebeskriving |
+| A3 | Rektor, avgangsseremoni 12.06.2026: «menneskelig» teknologi; berekraft «ikke et tillegg … men en del av det» | 🔴 | Tale/opptak/manus |
+| A4 | Rektor: kritisk tenking «nettopp dette som kjennetegner utdanningene våre» | 🟢 | **Stadfesta** — rektor Irene Alma Lønne, arkitektur.no 23.04.2026 (direkte sitat) |
+| A5 | «et selvfølgelig valg for dem som vil jobbe for en sosialt og klimamessig bærekraftig framtid» | 🟢 | **Stadfesta** — rektor, arkitektur.no 26.04.2024 (direkte sitat) |
+| A6 | Studieplanen seier «kan analysere relevante fag-, yrkes- og forskningsetiske problemstillinger» | 🟡 | **Presisering**: dette er **NKR-deskriptoren**, ikkje AHOs studieplan. AHO seier svakare: «kan reflektere over og posisjonere eget faglig bidrag i forhold til etiske problemstillinger». Tilskriv rammeverket, ikkje studieplanen |
+| A7 | Studietilsynsforskrifta § 2-2: vurderinga skal påvise læringsutbytet | 🟡 | Studietilsynsforskrifta ligg ikkje i gjeldande-korpuset; hent FOR-2017-02-07-137 frå lovdata.no/NOKUT |
+| A8 | Etikk-utbytet vert ikkje prøvd/vurdert | 🟡 | **Indikert**: ingen emne med «etikk» i tittel, inga vurderingsform knytt til etikk i studieplanen. Emnenivå (Syllabus) → innsyn |
+| A9 | AHO sjølvakkrediterer eigen designmaster; ekstern kontroll = kvalitetssystemet | 🟢 | **Stadfesta** — NOKUT: AHO vitskapleg høgskule m/ sjølvakkreditering; UH-lova § 3-4/§ 3-5 |
+| A10 | AHO har ikkje noko etisk organ for designutdanninga | 🟡 | **Nyansert**: AHO har forskingsetisk organ (Felles Redelighetsutvalg) + eigen etisk kode (rev. 2018), men **inga** designutdannings-spesifikk etisk vurdering, **inga** eksternprosedyre, **ingen** reservasjonsrett |
+| A11 | AHO éin av berre 2 av 78 utan etisk eksternprosedyre | 🔴 | **Ikkje støtta av utvalet** (19 koda): AHO er blant svakaste (nivå 2), men ikkje unik — dei fleste manglar eksternprosedyre. «2 av 78» bør ikkje brukast. Sjå [`etikk-benchmark.md`](etikk-benchmark.md) |
+| A12 | Kronikkutkast har dusinvis studentunderskrifter + 7 faglærarar | 🟡 | Underskriftsliste (internt) |
 
 ## B. Eksterne kontekstpåstandar (alvorlege — krev uavhengig verifisering)
 
@@ -29,12 +33,13 @@ Strukturert uttrekk frå brevet til Killi og Notion-materialet. Kvar påstand sk
 
 | # | Påstand | Status | Korleis verifisere |
 | --- | --- | --- | --- |
-| B1 | Raffinaderij/Palantir kjøpt av nederlandsk politi utan anbod i 2018, avdekt via rettssaker; køyrer på data om millionar ikkje-mistenkte | 🔴 | Nederlandske offentlege kjelder, rettsdokument, Autoriteit Persoonsgegevens, kvalitetspresse |
-| B2 | Nederland vedgjekk (~aug 2025) statleg masseovervaking via systemet | 🔴 | Offisielle nederlandske kjelder, kvalitetspresse |
-| B3 | Palantir-infrastruktur knytt til Gaza-måljakt, ICE-razziaar i USA | 🔴 | Etablerte nyhendekjelder, organisasjonsrapportar; fleire uavhengige |
-| B4 | Åtak 28.02.2026 mot skule i Minab, >160 (alt. ~150/148) drepne, fleirtalet jenter 7–12 | 🔴 | Uavhengige nyhende-/FN-kjelder; merk sprik i talet (148/150/160) mellom brevversjonane |
-| B5 | Forbrukerrådet-rapport 27.02.2026 om «enshittification»; Forbrukerrådet + 58 org./ekspertar bad regjeringa om opne protokollar/open kjeldekode i offentlege anskaffingar + reell tilsynskraft; parallelt EU-brev (29 sivilsamfunnsorg.) | 🟡 | forbrukerradet.no, pressemelding feb 2026, underskrivarliste |
-| B6 | Underskrivarar inkl. Amnesty Norge, LO, NITO, Redd Barna, Tekna, UNICEF Norge, Norsk råd for digital etikk; ingen norsk designskule/-organ, ikkje AHO/KHiO | 🟡 | Underskrivarlista til brevet (primærkjelde) |
+| B1 | Raffinaderij/Palantir kjøpt av nederlandsk politi utan anbod i 2018, avdekt via rettssaker | 🟢 | **Stadfesta** av nederlandsk regjering (Kamervragen 2025–2026 nr. 93): kjøp 2018 «heimelijk», heimel art. 2.23 lid 1(e) Aanbestedingswet. Woo-dom Rechtbank Amsterdam ECLI:NL:RBAMS:2025:4478 (19.06.2025) |
+| B1b | «køyrer på data om millionar ikkje-mistenkte» | 🟡 | **Presse, ikkje offisielt stadfesta** (FTM/Volkskrant/NRC ut frå sladda Woo-dok.); regjeringa korkje stadfestar eller avkreftar |
+| B2 | Nederland vedgjekk (~aug 2025) statleg **masseovervaking** | ⛔ | **Overdrive**: regjeringa stadfesta *bruk* + *løynd innkjøp*, men ramma det som avgrensa analyseomgjevnad og avviste «massasurveillance». Merkelappen kjem frå presse/Amnesty/opposisjon |
+| B3 | Palantir-infrastruktur knytt til Gaza-måljakt, ICE-razziaar i USA | 🔴 | **Sensitivt — ikkje undersøkt i runde 1.** Krev fleire uavhengige primærkjelder; framstill ikkje som fakta |
+| B4 | Åtak 28.02.2026 mot skule i Minab, ~148/150/160 drepne, fleirtalet jenter 7–12 | 🔴 | **Sensitivt — ikkje undersøkt i runde 1.** Uavhengige nyhende-/FN-kjelder; merk talsprik mellom brevversjonane |
+| B5 | Forbrukerrådet-rapport 27.02.2026 om «enshittification»; + 58 org. bad regjeringa om opne protokollar/open kjeldekode + reell tilsynskraft; parallelt EU-brev (29 org.) | 🟢 | **Stadfesta** — rapport «Breaking Free: Pathways to a Fair Technological Future»; primærkjelde forbrukerradet.no; alle tre krav verifiserte |
+| B6 | Underskrivarar inkl. Amnesty Norge, LO, NITO, Redd Barna, Tekna, UNICEF Norge, NORDE; ingen norsk designskule/-organ; berre éin designar | 🟢 | **Stadfesta** mot full underskrivarliste; einaste designar: Christian Greftegreff Falch; ingen designinstitusjon/-organ |
 
 ## Merknad om motstrid mellom versjonar
 
