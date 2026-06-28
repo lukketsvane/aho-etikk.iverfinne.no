@@ -1,11 +1,11 @@
-# Innsynskrav-utkast — A2: GK4-oppgåve («bærekraftshandling»)
+# Innsynskrav-utkast - A2: GK4-oppgåve («bærekraftshandling»)
 
 > Sendeklart utkast. **Ikkje sendt.** Knytt til påstand A2.
 
 ---
 
 **Til:** Arkitektur- og designhøgskolen i Oslo (postmottak@aho.no)
-**Emne:** Innsynskrav – oppgåvetekst og emnebeskriving for GK4 (Institutt for design)
+**Emne:** Innsynskrav - oppgåvetekst og emnebeskriving for GK4 (Institutt for design)
 
 Eg ber om innsyn etter **offentleglova § 3** i:
 

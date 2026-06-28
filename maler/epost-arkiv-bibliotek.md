@@ -1,4 +1,4 @@
-# Mal — e-post til arkiv/bibliotek
+# Mal - e-post til arkiv/bibliotek
 
 Når materiale ikkje er publisert eller ope tilgjengeleg (eldre dokument,
 forskartilgang, fysiske arkiv). Tilpass mottakar: Nasjonalbiblioteket,
@@ -6,11 +6,11 @@ Arkivverket/Digitalarkivet, AHO sitt eige arkiv, eller institusjonsarkiv.
 
 ---
 
-**Emne:** Førespurnad om {materiale} – {kort formål}
+**Emne:** Førespurnad om {materiale} - {kort formål}
 
 Hei,
 
-Eg arbeider med {kort, sakleg formål – t.d. «kjeldekritisk dokumentasjon av
+Eg arbeider med {kort, sakleg formål - t.d. «kjeldekritisk dokumentasjon av
 utdanningshistorie ved AHO»}. Eg leitar etter:
 
 - {presist materiale: tittel, periode, person/eining, arkivsignatur om kjend}

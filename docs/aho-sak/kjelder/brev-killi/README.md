@@ -1,4 +1,4 @@
-# Brev til Steinar Killi — kjeldedokument
+# Brev til Steinar Killi - kjeldedokument
 
 Brev frå **Iver Raknes Finne** (student, AHO) til **Steinar Killi**
 (instituttleiar, Institutt for design, AHO), Oslo, juni 2026. Primærkjelde for
@@ -16,5 +16,5 @@ er formulerte. Den **lengste** versjonen er rekna som kanonisk tekstgrunnlag.
 > ⚠️ Brevet inneheld både **AHO-spesifikke, etterprøvbare påstandar** (studieplan,
 > ekskursjon, marknadsføring, rammeverk) og **eksterne kontekstpåstandar**
 > (Palantir, Gaza, Minab, ICE, Anne Frank). Dei sistnemnde er alvorlege og må
-> verifiserast uavhengig før bruk — sjå [`../../paastandar.md`](../../paastandar.md).
+> verifiserast uavhengig før bruk - sjå [`../../paastandar.md`](../../paastandar.md).
 > Repoet refererer påstandane; det stadfestar dei ikkje.

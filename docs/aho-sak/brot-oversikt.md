@@ -1,7 +1,7 @@
-# Brot og løftebrot — samla, rangert oversikt
+# Brot og løftebrot - samla, rangert oversikt
 
 Konsolidering av **alt** i Notion-funndatabasen «AHOs lumskheit» (206 kjeldeførte
-rader) + GitHub-bevismatrisa (runde 1–3). Rangert etter **kor klart/sannsynleg
+rader) + GitHub-bevismatrisa (runde 1-3). Rangert etter **kor klart/sannsynleg
 funnet er** dersom saka må eskalerast (NOKUT, KD, Riksrevisjonen, Sivilombodet,
 Datatilsynet, Språkrådet, Arbeidstilsynet, eller offentleg publisering).
 
@@ -17,12 +17,12 @@ Styrke: 🟢 Sterk (primærkjeldefesta, toler tilsvar) · 🟡 Medium (krev litt
 
 ---
 
-## TIER 1 — Klarast / sterkast (toler formell sak eller publisering no)
+## TIER 1 - Klarast / sterkast (toler formell sak eller publisering no)
 
 | # | Brot / løftebrot | Kategori | Styrke | Kjelde | Eskalering til |
 | --- | --- | --- | --- | --- | --- |
 | 1 | **Lovpålagt etikk-læringsutbyte vert aldri prøvd i vurdering** | Regelbrot | 🟢 | NKR nivå 7 + UH-forskrifta § 1-11; AHO studieplan/emne | NOKUT, KD |
-| 2 | **Riksrevisjonen: AHO følgde ikkje opp forskingsetiske retningsliner** | Styringssvikt | 🟢 | Riksrevisjonen Dok 1 (2021–2022) | Riksrevisjonen, KD |
+| 2 | **Riksrevisjonen: AHO følgde ikkje opp forskingsetiske retningsliner** | Styringssvikt | 🟢 | Riksrevisjonen Dok 1 (2021-2022) | Riksrevisjonen, KD |
 | 3 | **NOKUT-tilsyn 2018: mangel ved studietilsynsforskrifta § 4-1(3)** | Regelbrot | 🟢 | NOKUT saksnr 17/02748 | NOKUT (4. runde 2027) |
 | 4 | **Systematisk brot på språklova (nynorskkravet)** | Regelbrot | 🟢 | Språkrådets tilsyn (2023) | Språkrådet, KD |
 | 5 | **Gjentekne Riksrevisjon-merknader til økonomi/styring (2004, 2009, 2010, 2013)** | Styringssvikt | 🟢 | Riksrevisjonen Dok 1 fleire år | Riksrevisjonen |
@@ -35,16 +35,16 @@ Styrke: 🟢 Sterk (primærkjeldefesta, toler tilsvar) · 🟡 Medium (krev litt
 | 12 | **Studentopprør 2021: fryktkultur, helseskadeleg pedagogisk praksis** | Styringssvikt | 🟢 | Khrono; Instagram-opprør; AFAG-kartlegging | Arbeidstilsynet, offentleg |
 | 13 | **Ingen norsk designskule (heller ikkje AHO) signerte Forbrukerrådet-brevet** | Faktasjekk/løftebrot | 🟢 | forbrukerradet.no | Offentleg |
 
-## TIER 2 — Sannsynlege / middels (krev litt meir verifisering eller innsyn)
+## TIER 2 - Sannsynlege / middels (krev litt meir verifisering eller innsyn)
 
 | # | Brot / løftebrot | Kategori | Styrke | Kjelde / neste steg |
 | --- | --- | --- | --- | --- |
 | 14 | «Klimamessig berekraftig framtid» (marknad) vs. «viktig tematikk» i styrepapir | Løftebrot | 🟡 | aho.no vs. styrepapir |
-| 15 | Utviklingsavtalen 2023–2026: bindande lovnad om berekraft, lite operasjonalisert | Løftebrot | 🟡 | regjeringen.no; styrevedtak |
+| 15 | Utviklingsavtalen 2023-2026: bindande lovnad om berekraft, lite operasjonalisert | Løftebrot | 🟡 | regjeringen.no; styrevedtak |
 | 16 | Strategien «Å forme fremtiden»/jubileum: lovnad om ansvar vs. avlyste debattar | Løftebrot | 🟡 | AHO strategi; avlyst Fehn-debatt, AHO Works |
 | 17 | Sjølvakkreditering: NOKUT kontrollerer systemet, ikkje om etikk-utbytet vert levert | Ansvarsglipe | 🟡→🟢 | UH-lova § 3-4/3-5 |
 | 18 | Datatilsynet refsa AHO for dårleg skilting av overvakingskamera (2017) | Regelbrot | 🟡 | Datatilsynet (ironisk gitt overvakingskritikken) |
-| 19 | **Studietur til Palantir-kontrollrom («C4», Amsterdam) — stadfesta; lærarane innrømte, men var ikkje klar over koplinga** | Ansvarsglipe | 🟢 | **Førstehands** (forfattar + klasse; lærarinnrømming). Tier-1-grad. Skriftleg via innsyn (A1) |
+| 19 | **Studietur til Palantir-kontrollrom («C4», Amsterdam) - stadfesta; lærarane innrømte, men var ikkje klar over koplinga** | Ansvarsglipe | 🟢 | **Førstehands** (forfattar + klasse; lærarinnrømming). Tier-1-grad. Skriftleg via innsyn (A1) |
 | 20 | Forskingsetisk redelegheitsutval dekkjer ikkje design/eksternsamarbeid | Ansvarsglipe | 🟡 | AHO; Riksrevisjon-kopling |
 | 21 | Etikk vert aldri vurdert i noko designemne | Regelbrot | 🟡 | Emnekatalog → innsyn (A8) |
 | 22 | Færre fordjupings-/studieplassar enn førsteval, ikkje opplyst | Løftebrot | 🟡 | Studieinfo; DBH |
@@ -54,16 +54,16 @@ Styrke: 🟢 Sterk (primærkjeldefesta, toler tilsvar) · 🟡 Medium (krev litt
 | 26 | Førsteamanuensis ved AHO dømd for bruk av svart arbeid (2018) | Regelbrot | 🟡 | dom (individ i AHO-rolle) |
 | 27 | Studiebarometeret: lågt på fysisk læringsmiljø; høg arbeidsbelastning | Ansvarsglipe | 🟡 | Studiebarometeret |
 
-## TIER 3 — Moglege / indikasjon (svake; treng meir før bruk)
+## TIER 3 - Moglege / indikasjon (svake; treng meir før bruk)
 
 | # | Brot / løftebrot | Kategori | Styrke | Merknad |
 | --- | --- | --- | --- | --- |
-| 28 | Brevet: studentar lærer å be om innsyn i overvakingssystem, ikkje å seie nei | Ansvarsglipe | 🔴 | Tolking/retorikk — ikkje sjølvstendig bevis |
-| 29 | Styreleiar med brei næringslivsportefølje (mogleg habilitet) | Interessekonflikt | 🔴 | Ope spor — kartlegg roller (Brreg) |
-| 30 | Equinor/olje: inga stadfesta designkontrakt | Faktasjekk | 🔴 | Hol — ikkje dokumentert |
-| 31 | Autoritære regime: ingen stadfesta AHO-avtale | Faktasjekk | 🔴 | Hol — gjeld alumni/Snøhetta, ikkje AHO |
+| 28 | Brevet: studentar lærer å be om innsyn i overvakingssystem, ikkje å seie nei | Ansvarsglipe | 🔴 | Tolking/retorikk - ikkje sjølvstendig bevis |
+| 29 | Styreleiar med brei næringslivsportefølje (mogleg habilitet) | Interessekonflikt | 🔴 | Ope spor - kartlegg roller (Brreg) |
+| 30 | Equinor/olje: inga stadfesta designkontrakt | Faktasjekk | 🔴 | Hol - ikkje dokumentert |
+| 31 | Autoritære regime: ingen stadfesta AHO-avtale | Faktasjekk | 🔴 | Hol - gjeld alumni/Snøhetta, ikkje AHO |
 
-## Alumni / eksterne (IKKJE AHO-institusjonen — handter varsamt)
+## Alumni / eksterne (IKKJE AHO-institusjonen - handter varsamt)
 
 | Funn | Styrke | Merknad |
 | --- | --- | --- |
@@ -97,10 +97,10 @@ Styrke: 🟢 Sterk (primærkjeldefesta, toler tilsvar) · 🟡 Medium (krev litt
 | **Språkrådet** | #4 (nynorskkravet) |
 | **Arbeidstilsynet** | #11, #12 (mellombels, fryktkultur, arbeidsmiljø) |
 | **Sivilombodet** | innsynsnekt (dersom AHO avviser innsynskrava) |
-| **Offentleg/presse** | #7, #8, #14–#16 (Kongsberg/etikk, løftebrot) — med tilsvar |
+| **Offentleg/presse** | #7, #8, #14-#16 (Kongsberg/etikk, løftebrot) - med tilsvar |
 
 > Full kjeldeføring per funn ligg i Notion-databasen «AHOs lumskheit» (206 rader)
 > og i [`bevis-matrise.md`](bevis-matrise.md). Sterkast samla sak: **klynge 1 + 2**
-> — at ein designskule som marknadsfører etikk, manglar kvar operativ mekanisme
+> - at ein designskule som marknadsfører etikk, manglar kvar operativ mekanisme
 > for å seie nei, samstundes som han signerer institusjonsavtalar med
 > forsvarsindustrien.

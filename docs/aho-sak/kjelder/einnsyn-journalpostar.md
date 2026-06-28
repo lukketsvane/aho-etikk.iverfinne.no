@@ -1,6 +1,6 @@
-# eInnsyn — journalpost-referansar (AHO)
+# eInnsyn - journalpost-referansar (AHO)
 
-Frå eInnsyn opne REST-API (`https://api.einnsyn.no/search`). **Berre metadata** —
+Frå eInnsyn opne REST-API (`https://api.einnsyn.no/search`). **Berre metadata** - 
 dokumentinnhald krev innsynskrav til **publiserande** eining (ikkje AHO; AHO er
 ikkje journaleining i eInnsyn). URL-format: `https://einnsyn.no/journalpost/<id>`.
 
@@ -26,7 +26,7 @@ ikkje journaleining i eInnsyn). URL-format: `https://einnsyn.no/journalpost/<id>
 Supplerande TB 2012 (SAK-samarbeid AHO/KHiO/NIH/NMH): saksnr 2009/4227 dok 167,
 jp_01j73wxf4hegbv3csczke12zmn.
 
-## NOKUT — periodisk oppfølging (4. runde), saksmappe 2025/436 + 2026/590
+## NOKUT - periodisk oppfølging (4. runde), saksmappe 2025/436 + 2026/590
 
 | Dokument | Dato | journalpost-id |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ jp_01j73wxf4hegbv3csczke12zmn.
 | KD-oppfølging NOKUT-kontroll samfunnssikkerhet/beredskap AHO | 2021-06-03 | 2020/4663 dok 57 · jp_01j73x82z1f9pvp94gdytcjat6 |
 | AHO Årsrapport 2024 (motteke KD) | 2025-03-18 | jp_01jq91spkmeycrw4satkwed9sy |
 | AHO 80-års høstkonf. «trygt og bærekraftig samfunn» | 2025-11-04 | jp_01k9s199qcf7bs7qs940nyprxf |
-| Husbanken: AHO-søknad «Integrert analyse av bærekraft» → avslag | 2011 | 2011/5177 dok 1–3 |
+| Husbanken: AHO-søknad «Integrert analyse av bærekraft» → avslag | 2011 | 2011/5177 dok 1-3 |
 | Statsbygg: omstilling på AHO | 2026 | Journalpost--872417842--10654 |
 | AHO fullmaktsavtale 2026 | 2026 | 2026/759 dok 36, 164 |
 

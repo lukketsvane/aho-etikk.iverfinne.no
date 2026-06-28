@@ -1,12 +1,12 @@
-# Innsynskrav-utkast — A8: vurdering av etikk-læringsutbytet
+# Innsynskrav-utkast - A8: vurdering av etikk-læringsutbytet
 
-> Sendeklart utkast. **Ikkje sendt.** Knytt til påstandane A6/A8 — kjernen i
+> Sendeklart utkast. **Ikkje sendt.** Knytt til påstandane A6/A8 - kjernen i
 > spørsmålet om lovpålagt etikk-utbyte faktisk vert prøvd.
 
 ---
 
 **Til:** Arkitektur- og designhøgskolen i Oslo (postmottak@aho.no)
-**Emne:** Innsynskrav – undervisning og vurdering av etikk-læringsutbytet i master i design
+**Emne:** Innsynskrav - undervisning og vurdering av etikk-læringsutbytet i master i design
 
 Eg ber om innsyn etter **offentleglova § 3** i dokument som viser korleis det
 fag-, yrkes- og forskingsetiske læringsutbytet (jf. studieplanen for master i

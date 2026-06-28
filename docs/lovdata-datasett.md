@@ -1,6 +1,6 @@
 # Lovdata-datasett
 
-Prosjektet brukar Lovdata sine **opne data** som juridisk grunnlag — for å kunne
+Prosjektet brukar Lovdata sine **opne data** som juridisk grunnlag - for å kunne
 sjekke kva lover, forskrifter og kunngjeringar som faktisk gjeld, og kva AHO som
 statleg høgskule er bunden av.
 
@@ -11,7 +11,7 @@ statleg høgskule er bunden av.
   `https://api.lovdata.no/v1/publicData/list`)
 - Datasettside: data.norge.no → «Norsk Lovtidend, Avdeling I»
   (`c0c6a87c-f597-3735-965f-650be23426a0`)
-- Lisens: **NLOD 2.0** (Norsk lisens for offentlege data) — fri vidarebruk med
+- Lisens: **NLOD 2.0** (Norsk lisens for offentlege data) - fri vidarebruk med
   kreditering «Lovdata».
 - Ratelimit: ~200 kall per vindauge (`X-RateLimit-*` i responsen).
 
@@ -21,7 +21,7 @@ statleg høgskule er bunden av.
 | --- | --- | --- | --- |
 | `gjeldende-lover.tar.bz2` | 788 gjeldande lover, ajourførte | ~5,9 MB | ✅ `data/raw/` |
 | `gjeldende-sentrale-forskrifter.tar.bz2` | 3 487 gjeldande forskrifter | ~20 MB | ✅ `data/raw/` |
-| `lovtidend-avd1-2001-2025.tar.bz2` | Norsk Lovtidend avd. I 2001–2025 | ~69 MB | ⬇️ via fetch-skript |
+| `lovtidend-avd1-2001-2025.tar.bz2` | Norsk Lovtidend avd. I 2001-2025 | ~69 MB | ⬇️ via fetch-skript |
 | `lovtidend-avd1-2026.tar.bz2` | Norsk Lovtidend avd. I, i år | ~1 MB | ⬇️ via fetch-skript |
 
 Dei to «gjeldande»-sett er committa (ein lov-/forskrift-snapshot). Dei store
@@ -39,9 +39,9 @@ lov-/forskriftsteksten.
 
 `scripts/build_index.py` strøymer tarballane og hentar ut metadatablokka til:
 
-- `data/index/lover.csv` — 788 rader
-- `data/index/forskrifter.csv` — 3 487 rader
-- `data/index/lovdata-index.jsonl` — 4 275 dokument
+- `data/index/lover.csv` - 788 rader
+- `data/index/forskrifter.csv` - 3 487 rader
+- `data/index/lovdata-index.jsonl` - 4 275 dokument
 
 Feltforklaring i [`data/index/SCHEMA.md`](../data/index/SCHEMA.md).
 

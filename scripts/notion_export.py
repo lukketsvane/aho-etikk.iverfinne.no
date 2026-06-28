@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Eksporter ein Notion-database (data source) til CSV — lesetilgang berre.
+"""Eksporter ein Notion-database (data source) til CSV - lesetilgang berre.
 
 Arbeidsnavet for AHO-granskinga er Notion-sida «AHO etikkrådet». Dette skriptet
 tek eit snapshot av ein strukturert database derifrå slik at funn kan
@@ -7,7 +7,7 @@ versjonerast og kryssjekkast mot Lovdata-indeksen i dette repoet.
 
 Autentisering: set miljøvariabelen NOTION_TOKEN (intern integrasjon «aho-etikk»).
   export NOTION_TOKEN=ntn_...
-Token skal ALDRI committast — sjå .gitignore / .env.example.
+Token skal ALDRI committast - sjå .gitignore / .env.example.
 
 Bruk:
   python3 scripts/notion_export.py <database-id> [ut.csv]
@@ -18,7 +18,7 @@ Kjende database-id-ar (sjå docs/notion.md):
 
 PERSONVERN: ikkje eksporter databasen «personar av interesse» til dette repoet.
 Den inneheld personopplysningar og skal bli verande i Notion (tilgangsstyrt).
-Dataminimer — eksporter berre kjeldeførte funn/benchmark med ålment formål.
+Dataminimer - eksporter berre kjeldeførte funn/benchmark med ålment formål.
 """
 
 from __future__ import annotations
@@ -65,7 +65,7 @@ def flatten(prop: dict) -> str:
     if t == "number":
         return "" if v is None else str(v)
     if t == "date":
-        return (v.get("start", "") or "") + (f"–{v['end']}" if v.get("end") else "")
+        return (v.get("start", "") or "") + (f"-{v['end']}" if v.get("end") else "")
     if t == "checkbox":
         return "ja" if v else "nei"
     return json.dumps(v, ensure_ascii=False)

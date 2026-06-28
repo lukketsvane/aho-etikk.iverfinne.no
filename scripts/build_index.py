@@ -2,8 +2,8 @@
 """Bygg ein søkbar metadata-indeks over Lovdata-korpuset.
 
 Les dei komprimerte tarballane under data/raw/ (gjeldende-lover.tar.bz2 og
-gjeldende-sentrale-forskrifter.tar.bz2) direkte som straum – utan å pakke ut
-~270 MB HTML til disk – og hentar ut metadatablokka
+gjeldende-sentrale-forskrifter.tar.bz2) direkte som straum - utan å pakke ut
+~270 MB HTML til disk - og hentar ut metadatablokka
 ``<dl class="data-document-key-info">`` frå kvart dokument.
 
 Skriv:
@@ -11,7 +11,7 @@ Skriv:
   data/index/forskrifter.csv    (ei rad per forskrift)
   data/index/lovdata-index.jsonl (alle dokument, eitt JSON-objekt per linje)
 
-Rein standardbibliotek – ingen avhengnader. Køyr frå repo-rota:
+Rein standardbibliotek - ingen avhengnader. Køyr frå repo-rota:
   python3 scripts/build_index.py
 
 Kjelde: Lovdata opne data (api.lovdata.no), lisens NLOD 2.0.
@@ -107,7 +107,7 @@ def iter_records():
     for fname, doctype in SOURCES.items():
         path = RAW / fname
         if not path.exists():
-            print(f"  ! manglar {path} – hopp over "
+            print(f"  ! manglar {path} - hopp over "
                   f"(køyr scripts/fetch_lovdata.sh)", file=sys.stderr)
             continue
         print(f"  Les {fname} ...", file=sys.stderr)
@@ -143,7 +143,7 @@ def main() -> int:
     total = len(lover) + len(forskrifter)
     print(f"  Skreiv lovdata-index.jsonl: {total} dokument", file=sys.stderr)
     if total == 0:
-        print("Ingen dokument – ligg tarballane i data/raw/?", file=sys.stderr)
+        print("Ingen dokument - ligg tarballane i data/raw/?", file=sys.stderr)
         return 1
     return 0
 

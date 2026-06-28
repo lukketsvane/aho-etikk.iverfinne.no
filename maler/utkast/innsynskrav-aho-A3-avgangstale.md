@@ -1,11 +1,11 @@
-# Innsynskrav-utkast — A3: rektors avgangstale 12.06.2026
+# Innsynskrav-utkast - A3: rektors avgangstale 12.06.2026
 
 > Sendeklart utkast. **Ikkje sendt.** Knytt til påstand A3.
 
 ---
 
 **Til:** Arkitektur- og designhøgskolen i Oslo (postmottak@aho.no)
-**Emne:** Innsynskrav – rektors tale ved avgangsseremonien 12. juni 2026
+**Emne:** Innsynskrav - rektors tale ved avgangsseremonien 12. juni 2026
 
 Eg ber om innsyn etter **offentleglova § 3** i:
 

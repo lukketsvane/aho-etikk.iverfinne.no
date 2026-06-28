@@ -12,7 +12,7 @@ brukar berre standardbibliotek (Python 3) / `curl` + `bash`.
 ## Typisk arbeidsflyt
 
 ```bash
-# 1. (valfritt) hent ferske data – dei to gjeldande sett ligg alt i data/raw/
+# 1. (valfritt) hent ferske data - dei to gjeldande sett ligg alt i data/raw/
 bash scripts/fetch_lovdata.sh
 
 # 2. bygg søkbar indeks
@@ -29,7 +29,7 @@ python3 scripts/notion_export.py baaf3e0b70b648f5a260c45347a267e6 \
 
 - `NOTION_TOKEN` skal aldri committast. `.env` og `data/notion-export/` er i
   `.gitignore`.
-- Ikkje eksporter databasen **«personar av interesse»** til repoet — den
+- Ikkje eksporter databasen **«personar av interesse»** til repoet - den
   inneheld personopplysningar og skal bli verande i Notion (tilgangsstyrt).
   Dataminimer: eksporter berre kjeldeførte funn/benchmark med ålment formål.
-- Lovdata-data er NLOD 2.0 — krediter «Lovdata» ved vidarebruk.
+- Lovdata-data er NLOD 2.0 - krediter «Lovdata» ved vidarebruk.

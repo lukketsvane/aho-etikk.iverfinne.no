@@ -1,13 +1,13 @@
-# Innsynskrav-utkast — A1: ekskursjon til Amsterdam (sept 2025)
+# Innsynskrav-utkast - A1: ekskursjon til Amsterdam (sept 2025)
 
 > Sendeklart utkast. **Ikkje sendt.** Send til postmottak@aho.no eller via
 > eInnsyn. Loggfør i `docs/aho-sak/innsynslogg.md`. Knytt til påstand A1
-> (`docs/aho-sak/paastandar.md`) — som per runde 1 ikkje er eksternt stadfesta.
+> (`docs/aho-sak/paastandar.md`) - som per runde 1 ikkje er eksternt stadfesta.
 
 ---
 
 **Til:** Arkitektur- og designhøgskolen i Oslo (postmottak@aho.no)
-**Emne:** Innsynskrav – studietur ved Institutt for design til Amsterdam, september 2025
+**Emne:** Innsynskrav - studietur ved Institutt for design til Amsterdam, september 2025
 
 Eg ber om innsyn etter **offentleglova § 3** i følgjande dokument knytte til
 studieturen/ekskursjonen som Institutt for design gjennomførte til Amsterdam i

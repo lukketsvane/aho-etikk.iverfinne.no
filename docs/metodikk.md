@@ -1,4 +1,4 @@
-# Metodikk — kjeldekritisk gravejournalistikk
+# Metodikk - kjeldekritisk gravejournalistikk
 
 Arbeidsmetoden for dette prosjektet, avleidd frå rolla i
 [`research-agent.md`](research-agent.md). Kort sagt: **primærkjelde først,
@@ -6,7 +6,7 @@ verifiser før påstand, dokumenter alt, dataminimer.**
 
 ## 1. Frå spørsmål til søk
 
-1. Omformuler researchspørsmålet til 3–7 presise søkestrengar (nynorsk, bokmål,
+1. Omformuler researchspørsmålet til 3-7 presise søkestrengar (nynorsk, bokmål,
    engelsk; ta med eldre rettskriving og alternative namn).
 2. Identifiser entitetar: person, organisasjon (org.nr.), stad, tidsrom,
    sak-/dokumentnummer, lov/forskrift, arkivsignatur.
@@ -22,7 +22,7 @@ kart/eigedom → register/økonomi. Tilgangsnivå og endepunkt står i
 
 For denne saka er tyngdepunktet **Fase 3** (Lovdata, Stortinget, eInnsyn,
 regjeringen.no), **Fase 5** (Cristin/NVA, AHO Open, DBH/HK-dir) og **Fase 8**
-(Brønnøysund, SSB) — sjå [`aho-sak/kjelder-aho.md`](aho-sak/kjelder-aho.md).
+(Brønnøysund, SSB) - sjå [`aho-sak/kjelder-aho.md`](aho-sak/kjelder-aho.md).
 
 ## 3. Verifisering
 
@@ -61,7 +61,7 @@ ein del av kjeldekritikken.
 - Ikkje samanstill data om privatpersonar berre fordi teknisk tilgang finst.
 - Skil **offentleg journalmetadata** (kan delast) frå **sjølve dokumentet** (be
   om innsyn). Sjå [`maler/`](../maler/).
-- Personregisteret «personar av interesse» blir i Notion (tilgangsstyrt) — det
+- Personregisteret «personar av interesse» blir i Notion (tilgangsstyrt) - det
   blir **ikkje** eksportert til dette repoet. Sjå [`notion.md`](notion.md).
 - Følg lisenskrav og kreditering (Lovdata = NLOD 2.0).
 

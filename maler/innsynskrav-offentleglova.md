@@ -1,17 +1,17 @@
-# Mal — innsynskrav etter offentleglova
+# Mal - innsynskrav etter offentleglova
 
 Fyll inn `{...}`. Send til AHO sin postmottak (postmottak@aho.no) eller via
 eInnsyn. Ta vare på sendt-dato og logg i [`../docs/aho-sak/innsynslogg.md`](../docs/aho-sak/innsynslogg.md).
 
 ---
 
-**Emne:** Innsynskrav – {kort skildring}
+**Emne:** Innsynskrav - {kort skildring}
 
 Til Arkitektur- og designhøgskolen i Oslo
 
 Eg ber med dette om innsyn etter **offentleglova § 3** i følgjande dokument:
 
-- {presist kva dokument/sak – t.d. «Program og førehandsinformasjon (inkl.
+- {presist kva dokument/sak - t.d. «Program og førehandsinformasjon (inkl.
   e-post til studentane) for ekskursjonen til C4/politiet i Amsterdam,
   september 2025»}
 - {evt. saks-/journalnummer dersom kjent}

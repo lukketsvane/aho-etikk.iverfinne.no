@@ -12,7 +12,7 @@ parsast seinare.
 ## Konvensjonar
 
 - **Dato/tid**: ISO 8601 (`2026-06-28` eller `2026-06-28T14:30`).
-- **Treff**: tal, eller «0» — men skriv aldri «ingen funn» før alternative
+- **Treff**: tal, eller «0» - men skriv aldri «ingen funn» før alternative
   stavemåtar, eldre rettskriving, initialar og historiske namn er prøvde.
 - **Feilkjelder**: OCR, ufullstendig dekning, tilgangssperre, tvitydig namn.
 - Lim inn det eksakte endepunktet/URL-en slik at søket kan køyrast på nytt.

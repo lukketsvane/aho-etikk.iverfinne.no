@@ -1,4 +1,4 @@
-# Mal — innsynskrav via eInnsyn
+# Mal - innsynskrav via eInnsyn
 
 [eInnsyn](https://www.einnsyn.no) publiserer offentleg journal (OEP) for statlege
 og mange kommunale verksemder. Bruk det til å **finne** journalpostar, og bestill

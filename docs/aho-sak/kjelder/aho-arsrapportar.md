@@ -1,4 +1,4 @@
-# AHO eigenrapportering — årsrapportar, studiekvalitet, strategiar (2010–2026)
+# AHO eigenrapportering - årsrapportar, studiekvalitet, strategiar (2010-2026)
 
 Alle URL-ar verifiserte (HTTP 200, `%PDF`). AHO sin eigen eigenrapportering til KD
 + studiekvalitetsmeldingar. DBH-institusjonskode: **instkode=1220**.
@@ -19,10 +19,10 @@ Base: `https://www.aho.no/om/strategi-plan-og-styringsdokumenter/plan-og-styring
 | 2018 | `aho_arsrapport_2018.pdf` |
 | 2017 | `arsrapport_2017_endelig.pdf` |
 | 2016 | `aho_arsrapport_2016.pdf` |
-| 2013–14 | `aho_rapport_og_planer_2013-2014.pdf` |
-| 2012–13 | `aho_rapport_og_planer_2012-2013.pdf` |
-| 2011–12 | `aho_rapport_og_planer_2011-2012.pdf` |
-| 2010–11 | `aho_rapport_og_planer_2010-2011.pdf` |
+| 2013-14 | `aho_rapport_og_planer_2013-2014.pdf` |
+| 2012-13 | `aho_rapport_og_planer_2012-2013.pdf` |
+| 2011-12 | `aho_rapport_og_planer_2011-2012.pdf` |
+| 2010-11 | `aho_rapport_og_planer_2010-2011.pdf` |
 
 ## Studiekvalitetsmeldingar (årsrapport for studiekvalitet)
 
@@ -30,13 +30,13 @@ Base: `https://www.aho.no/om/studiekvalitet/dokumenter/arsrapporter-studiekvalit
 Filer (alle 200): `arsrapport-studiekvalitet-2024-2025.pdf`, `-2023-2024.pdf`,
 `-2022-2023.pdf`, `-2021-2022.pdf`, `-2020-2021.pdf`, `-2019-2020.pdf`,
 `-2017-2018.pdf`, `-2016-2017.pdf`, `-2015.pdf`, `-2014.pdf`, `-2013.pdf`,
-`-2012.pdf`, `-2011.pdf`, `-2010.pdf`. (Indeks listar 2003–2025; 2018–2019 hoppa over.)
+`-2012.pdf`, `-2011.pdf`, `-2010.pdf`. (Indeks listar 2003-2025; 2018-2019 hoppa over.)
 
 ## Strategiar
 
 - **Strategisk plan 2020** (vedteke feb. 2011): `…/plandokumenter/aho_strategisk_plan_2020.pdf`
-- **Agenda 2025** (2020–2025): `…/strategi-2026-2036/dokumenter/agenda2025-aho.pdf`
-- **Strategi 2026–2036** (vedteke 23.01/11.03.2026): `…/om/strategi-plan-og-styringsdokumenter/strategi-2026-2036/`
+- **Agenda 2025** (2020-2025): `…/strategi-2026-2036/dokumenter/agenda2025-aho.pdf`
+- **Strategi 2026-2036** (vedteke 23.01/11.03.2026): `…/om/strategi-plan-og-styringsdokumenter/strategi-2026-2036/`
 
 ## Daterte eigne sitat (kryssjekkbare mot praksis)
 
@@ -57,7 +57,7 @@ Filer (alle 200): `arsrapport-studiekvalitet-2024-2025.pdf`, `-2023-2024.pdf`,
   «systematisere bærekraftselementene i emneporteføljen».
 - 2024: «… 150 nye endringsagenter ut i arbeidslivet [pr år]».
 
-**Raudt flagg — design under press**
+**Raudt flagg - design under press**
 - 2023: årsrapporten varslar **nedbygging av studieplassar ved Institutt for
   design**; «Plan for nedbygging … skal styrebehandles i juni 2024». Kontrast til
   strategiens berekraft-/relevans-lovnader. Kryss mot styresak 7/24 (mars 2024:

@@ -1,4 +1,4 @@
-# Datakatalog — Lovdata metadata-indeks
+# Datakatalog - Lovdata metadata-indeks
 
 Generert av [`scripts/build_index.py`](../../scripts/build_index.py) frå dei
 komprimerte tarballane i [`data/raw/`](../raw/). Kjelde: **Lovdata opne data**
@@ -21,7 +21,7 @@ komprimerte tarballane i [`data/raw/`](../raw/). Kjelde: **Lovdata opne data**
 | `dokid` | `NL/lov/1814-05-17` | Lovdata DokumentID (stabil nøkkel) |
 | `datokode` | `LOV-1814-05-17` | Datokode / legacy-ID |
 | `tittel` | `Kongeriket Norges Grunnlov` | Fullt namn |
-| `korttittel` | `Grunnloven (bokmål) – Grl.` | Korttittel der oppgitt |
+| `korttittel` | `Grunnloven (bokmål) - Grl.` | Korttittel der oppgitt |
 | `departement` | `Justis- og beredskapsdepartementet` | Ansvarleg departement (kan vere fleire, skilde med mellomrom) |
 | `etat` | `Protokollavd.` | Underordna etat/avdeling der oppgitt |
 | `rettsomraade` | `Stats- ... > Grunnloven` | Rettsområde (oftast tomt for forskrifter) |
@@ -37,10 +37,10 @@ komprimerte tarballane i [`data/raw/`](../raw/). Kjelde: **Lovdata opne data**
 ## Atterhald
 
 - Felt manglar der Lovdata ikkje har fylt dei ut. T.d. har **3 462 av 3 487
-  forskrifter** ikkje `rettsomraade` i kjelda — tom verdi tyder *ikkje oppgitt*,
+  forskrifter** ikkje `rettsomraade` i kjelda - tom verdi tyder *ikkje oppgitt*,
   ikkje *finst ikkje*.
 - Tekstfelt er reinska for HTML-taggar; lister er flata ut til éin streng.
 - Indeksen er **metadata**, ikkje fulltekst. Sjølve lovteksten ligg i HTML-fila i
   tarballen (`data/raw/`). Kontroller alltid mot originaldokumentet før sitat.
-- For kunngjeringshistorikk (kva som vart kunngjort når) — sjå Norsk Lovtidend
+- For kunngjeringshistorikk (kva som vart kunngjort når) - sjå Norsk Lovtidend
   Avdeling I via `scripts/fetch_lovdata.sh` (ikkje committa pga. storleik).

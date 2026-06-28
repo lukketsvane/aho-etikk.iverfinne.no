@@ -1,10 +1,10 @@
-# Kjelderegister — API-ar og databasar
+# Kjelderegister - API-ar og databasar
 
 Startregister for research. **Tilgang**: A = open maskinlesbar · B = API-nøkkel ·
 C = søknad/heimel/avtale · D = nettside utan offentleg API. Utvid via
 [data.norge.no](https://data.norge.no) sin API-katalog.
 
-## Lov, rett, politikk og innsyn (Fase 3 — kjernen for denne saka)
+## Lov, rett, politikk og innsyn (Fase 3 - kjernen for denne saka)
 
 | Kjelde | Tilgang | Endepunkt / URL | Beviser |
 | --- | --- | --- | --- |

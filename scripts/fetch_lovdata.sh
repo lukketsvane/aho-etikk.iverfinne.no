@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # Last ned Lovdata opne data frå api.lovdata.no/v1/publicData.
 #
-# Datasett (sjå https://data.norge.no/datasets — "Norsk Lovtidend, Avdeling I"):
+# Datasett (sjå https://data.norge.no/datasets - "Norsk Lovtidend, Avdeling I"):
 #   gjeldende-lover.tar.bz2                 gjeldande lover (committa i data/raw/)
 #   gjeldende-sentrale-forskrifter.tar.bz2  gjeldande forskrifter (committa)
-#   lovtidend-avd1-2001-2025.tar.bz2        Norsk Lovtidend avd. I 2001–2025 (~69 MB, IKKJE committa)
+#   lovtidend-avd1-2001-2025.tar.bz2        Norsk Lovtidend avd. I 2001-2025 (~69 MB, IKKJE committa)
 #   lovtidend-avd1-2026.tar.bz2             Norsk Lovtidend avd. I inneverande år
 #
 # Lisens: NLOD 2.0 (Norsk lisens for offentlege data). Krediter "Lovdata".

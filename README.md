@@ -2,7 +2,7 @@
 
 Kjeldekritisk, gravejournalistisk dokumentasjon av etiske og juridiske
 **tillitsbrot** og **løftebrot** ved **Arkitektur- og designhøgskolen i Oslo
-(AHO)** — bygd på primærkjelder, norsk lovverk og opne data.
+(AHO)** - bygd på primærkjelder, norsk lovverk og opne data.
 
 > **Hypotese (ikkje konklusjon):** ein designskule må ha eit «nei». AHO lærer
 > studentane å be om å sjå overvakingssystem, men ikkje å seie nei til dei; eit
@@ -12,7 +12,7 @@ Kjeldekritisk, gravejournalistisk dokumentasjon av etiske og juridiske
 
 ## 🧭 Arbeidsnav: Notion
 
-Den løpande granskinga blir driven i **Notion** — sida **«AHO etikkrådet»**:
+Den løpande granskinga blir driven i **Notion** - sida **«AHO etikkrådet»**:
 <https://app.notion.com/p/tingogtang/AHO-etikkr-det-38d1c6815f7880e5bad8ef59b1f76595>
 
 Notion held levande notatar, brevutkast og databasar (funn, etikk-benchmark,
@@ -50,11 +50,11 @@ python3 scripts/notion_export.py baaf3e0b70b648f5a260c45347a267e6 data/notion-ex
 
 ## Datakjelder
 
-- **Lovdata opne data** (`api.lovdata.no`) — lover, forskrifter, Norsk Lovtidend
+- **Lovdata opne data** (`api.lovdata.no`) - lover, forskrifter, Norsk Lovtidend
   avd. I. Lisens **NLOD 2.0**, krediter «Lovdata». Datasett:
   [data.norge.no → Norsk Lovtidend, Avdeling I](https://data.norge.no/nb/datasets/c0c6a87c-f597-3735-965f-650be23426a0/norsk-lovtidend-avdeling-i).
   Sjå [`docs/lovdata-datasett.md`](docs/lovdata-datasett.md).
-- **Notion** — arbeidsnav (over).
+- **Notion** - arbeidsnav (over).
 - Vidare register: [`docs/kjelderegister.md`](docs/kjelderegister.md).
 
 ## Prinsipp
