@@ -45,6 +45,7 @@ Dette er **hypotesen som skal provast eller avkreftast** — ikkje ein konklusjo
 
 | Fil | Innhald |
 | --- | --- |
+| [`brot-oversikt.md`](brot-oversikt.md) | **Rangert oversikt** over alle brot/løftebrot (Tier 1–3) + eskaleringskart |
 | [`sakssamandrag.md`](sakssamandrag.md) | **Publiseringsorientert samandrag** — dei sterkaste verifiserte funna med kjelde |
 | [`bevis-matrise.md`](bevis-matrise.md) | **Samla matrise**: alle påstandar/funn (A/B/C) → status, styrke, kjelde |
 | [`research/`](research/) | Rundelogg (runde 1–3) med verifisering mot primærkjelder |
