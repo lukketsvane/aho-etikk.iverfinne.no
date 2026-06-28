@@ -21,4 +21,7 @@ Eg ber om sjølve dokumenta. Ved unntak: meirinnsyn (**§ 11**), heimel (**§ 31
 svar utan ugrunna opphald (**§ 29**).
 
 Med helsing
-{namn} · {kontakt} · {dato}
+Iver Raknes Finne, student ved Arkitektur- og designhøgskolen i Oslo
+{e-post} · {telefon} · {dato}
+
+> ⚠️ Ikkje sendt. Fyll inn e-post/telefon/dato og kontroller før sending.

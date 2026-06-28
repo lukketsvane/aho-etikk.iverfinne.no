@@ -28,4 +28,7 @@ unntak (**§ 31**), og svar **utan ugrunna opphald** (**§ 29**). Føretrekt for
 elektronisk/PDF.
 
 Med helsing
-{namn} · {kontakt} · {dato}
+Iver Raknes Finne, student ved Arkitektur- og designhøgskolen i Oslo
+{e-post} · {telefon} · {dato}
+
+> ⚠️ Ikkje sendt. Fyll inn e-post/telefon/dato og kontroller før sending.
