@@ -1,0 +1,24 @@
+# Hemmelegheiter – ALDRI committa
+.env
+.env.*
+!.env.example
+*token*
+*secret*
+
+# Store Lovtidend-arkiv (hentast med scripts/fetch_lovdata.sh ved behov)
+data/raw/lovtidend-avd1-*.tar.bz2
+
+# Notion-snapshot (vurder personvern før evt. committing)
+data/notion-export/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
