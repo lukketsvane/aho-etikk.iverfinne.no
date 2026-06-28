@@ -46,7 +46,7 @@ treng innsyn · ⛔ avkrefta/overdrive. Styrke: Sterk / Medium / Svak.
 | C5 | Utviklingsavtale KD 2023–2026 forpliktar AHO til berekraft gjennomgåande | 🟢 | Sterk | regjeringen.no; TB2023–2025 |
 | C6 | Etikk/berekraft i liten grad operasjonalisert i styrevedtak | 🟡 | Medium | Ingen «bærekraft»-vedtak 2018–20; ingen eige etikk-vedtak 2024–26 |
 | C7 | Etikk-/berekraft-retorikk er programmarknadsføring, ikkje institusjonell | 🟢 | Medium | Wayback: «Om AHO» 2011–25 utan slikt språk; fråvær 2014 → marknadsføring 2019→ |
-| C8 | Design-studieplassar/-årsverk bygde ned (2024–27) | 🟢 | Medium | Styresak 47/24, 49/24, 47/26. **Grunngjeving økonomisk/KD-driven** (Utdanningsløftet-plassar fasa ut; −30–35 mill./11–13% frå 2026); kutt 3 årsverk (tjeneste-/systemorientert design) |
+| C8 | Design-studieplassar/-årsverk bygde ned (2024–27) | 🟢 | Medium | Styresak 47/24, 49/24, 47/26. **Økonomisk/KD-driven**: AHO søkte tvert imot **+30 designplassar** i 2022 (sak 80/22) og 2023 (sak 58/23); KD trekte korona-plassane → −30–35 mill./11–13% frå 2026; kutt 3 årsverk (tjeneste-/systemorientert design). **Ikkje eit AHO-verdival** |
 | C9 | KD-oppfølging av NOKUT-kontroll med samfunnssikkerhet/beredskap ved AHO | 🟡 | — | eInnsyn saksnr 2020/4663 (2021) — innsyn |
 | C10 | AHO ikkje journaleining i eInnsyn (intern journal berre via direkte innsyn) | 🟢 | Sterk | eInnsyn API (metodefunn) |
 | C11 | **Inga aktsemdsvurdering (due diligence) av eksterne partnarar** i styredok. | 🟢 | Sterk | Fulltekst 6 styre-saksframlegg: berre ambisjon om meir ekstern finansiering, ingen etisk screening-prosedyre → stør A10/A11 |

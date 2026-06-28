@@ -52,6 +52,33 @@ utdanning, studieprogram-endringar. Pure budsjett/personal er utelate.
 > Komplett innkalling/sakspapir-pakkar (rikast på saksframlegg) finst for fleire
 > møte — sjå agentrapport i git-historikk. Før 2018: sjå Wayback-indeks `data/harvest/`.
 
+## 2021–2023 (nøkkelvedtak)
+
+Alle 19 protokollar henta og tekst-lesne (flate PDF-ar i årsmappa
+`…/styremoter/2021|2022|2023/`). Tematiske vedtak (ordrett):
+
+- **Etikk — sak 42/22 (15.06.2022):** «Styret vedtar revisjon av etiske
+  retningslinjer.» (+ retningslinjer for veiledningsrelasjoner til orientering).
+  Merk: revisjonen kom **kort før** Riksrevisjonens 2022-kritikk for manglande
+  oppfølging av forskingsetikk.
+- **Eksterne — sak 41/22 (15.06.2022):** nye interne retningslinjer for BOA
+  (bidrags-/oppdragsfinansiert aktivitet) — **økonomistyring**, ikkje etisk
+  partnar-screening. Sak 31/22 «Kjøp eksterne tjenester/konsulent» (orientering).
+- **Ekstern programevaluering — sak 32/23 (14.06.2023):** «Styret godkjenner
+  ekstern revidering av toårig master i design.»
+- **Kvalitet — sak 73/22 (26.10.2022):** styret ber sjølv om «klarere evaluering
+  av måloppnåelse i neste års rapport» + gjennomgang av kvalitetssystemet →
+  styret flagga sjølv svak måloppnåings-evaluering (stør A8).
+- **Berekraft:** ingen vedtak med ordlyden «bærekraft/klima/miljø» 2021–2023;
+  næraste er reisepolicy (sak 74/23) som **ikkje** vart vedteke.
+- ⚠️ **Design — EKSPANSJON, ikkje nedbygging, i denne perioden:** sak 80/22
+  (26.10.2022) «AHO spiller inn 30 studieplasser i design»; sak 58/23 (11.10.2023)
+  «søker om 30 studieplasser til Master i design»; sak 73/23 (06.12.2023) ny
+  5-årig master design-studieplan. **Nedbygginga kom først i 2024+ (KD trekte
+  korona-plassane)** — stadfestar at kuttet er KD-/økonomidriven, ikkje verdival.
+- Leiing: Steinar Killi tilsett instituttleiar design (sak 7/23, åremål frå
+  01.04.2023) — stadfestar mottakaren av brevet.
+
 ## 2024–2026 (nøkkelvedtak)
 
 ⚠️ **Metode:** AHO publiserer **ikkje** frittståande protokollar for 2024–2026 —
