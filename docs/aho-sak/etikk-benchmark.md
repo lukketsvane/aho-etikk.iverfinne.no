@@ -28,33 +28,34 @@ Definer kriteria for nivå 3–4 eksplisitt, sidan A11 heng på definisjonen.
 
 - **Skuleliste:** 70 nordiske design-/arkitektureiningar →
   [`data/benchmark/nordiske-skular.csv`](../../data/benchmark/nordiske-skular.csv).
-- **Koda:** **47 skular** (11 NO, 14 SE, 14 DK, 7 FI, 1 IS) →
+- **Koda:** **64 skular** (11 NO, 23 SE, 14 DK, 15 FI, 1 IS) →
   [`data/benchmark/etikk-benchmark.csv`](../../data/benchmark/etikk-benchmark.csv).
-- **Står att:** ~23 (mest mindre yrkeshøgskular, truleg nivå 1–2).
+- **Står att:** ~6 (m.a. UiB KMD, Agricultural University of Iceland).
 
-### Nivåfordeling (koda, n=47)
+### Nivåfordeling (koda, n=64)
 
 | Nivå | Tal | Døme |
 | --- | --- | --- |
-| 1 – berre nasjonalt rammeverk | 8 | BAS, Beckmans, Det Kongelige Akademi, KEA |
-| 2 – eigen generell etikkode | 26 | **AHO**, Konstfack, KTH, DTU, KU, Oulu, LHÍ … |
-| 3 – kriterium for eksternsamarbeid | 7 | KHiO, Kristiania, OsloMet, UiS, Aalto ARTS, Aarhus Univ., Borås |
-| 4 – partnar-vurdering / reservasjonsrett | 6 | NTNU, NMBU, UiT, RUC, Berghs, SU-DSV |
+| 1 – berre nasjonalt rammeverk | 13 | BAS, Beckmans, Det Kongelige Akademi, KEA, HAMK, Laurea |
+| 2 – eigen generell etikkode | 34 | **AHO**, Konstfack, KTH, DTU, KU, Oulu, LHÍ … |
+| 3 – kriterium for eksternsamarbeid | 9 | KHiO, Kristiania, OsloMet, UiS, Aalto ARTS, Aarhus Univ., Borås, Steneby, Turku |
+| 4 – partnar-vurdering / reservasjonsrett | 8 | NTNU, NMBU, UiT, RUC, Berghs, SU-DSV, SLU, Metropolia |
 
-**13 skular (nivå 3–4) har ein eksternsamarbeid-/partnarvurdering AHO manglar.**
+**17 skular (nivå 3–4) har ein eksternsamarbeid-/partnarvurdering AHO manglar;
+27 av 64 har «Ja/Delvis» på eksternprosedyre, 37 har det ikkje.**
 
 ### Konklusjon A11 — omformulert og forsvarleg
 
 Den opphavlege påstanden «AHO er **éin av berre to av 78**» utan etisk
-eksternprosedyre er **FALSK** og må ikkje brukast: 25 av 47 koda skular manglar
+eksternprosedyre er **FALSK** og må ikkje brukast: 37 av 64 koda skular manglar
 ein slik prosedyre — AHO er i fleirtalet, ikkje unik.
 
 **Det som derimot held** (og er sterkare som poeng): AHO ligg på **nivå 2** og har
 **inga** publisert prosedyre for etisk vurdering av eksterne samarbeid og **ingen
 reservasjonsrett**, medan ein klar minoritet av nordiske skular — inkludert **7 av
 11 koda norske** (KHiO, Kristiania, NTNU, NMBU, OsloMet, UiT, UiS) — **har** ein
-slik prosedyre. I Noreg er det berre **BAS og Volda** som ligg likt med eller under
-AHO. Forsvarleg formulering:
+slik prosedyre. I Noreg er det berre **BAS, Volda og USN** som ligg likt med eller
+under AHO — dvs. AHO er blant dei **4 svakaste av 11** norske. Forsvarleg formulering:
 
 > «Fleire norske institusjonar — m.a. UiT, NTNU, NMBU, OsloMet, KHiO og UiS — har
 > innført etiske kriterium eller prosedyrar for eksterne samarbeid. AHO har det
