@@ -12,6 +12,17 @@ aatte verksemder der Spraakraadet har bedt Kunnskapsdepartementet ta grep fordi
 lovbrota har vore systematiske over tid. Rektor/direktoer Irene Alma Loenne:
 "Eg innroemmer at dette er skikkeleg daarleg."
 
+Ordrett fraa Khrono (skjermbilete lagra som kjeldefil:
+[snapshots/khrono-spraaklov-1-7-prosent-nynorsk.jpeg](snapshots/khrono-spraaklov-1-7-prosent-nynorsk.jpeg)):
+- "Botnplasseringa i Spraakraadets statistikk hoeyrer i aar til Arkitektur og
+  designhoegskolen. Der var nynorskdelen i 2022 nede i 1,7 prosent."
+- "Loenne seier at ho ikkje var klar over at nynorsk nesten ikkje blir brukt ved
+  hoegskulen, og at dette i tillegg til aa vere i strid med spraaklova, ikkje
+  samsvarer med deira eigen politikk."
+
+Merk: dette er baade eit lovbrot (spraaklova) OG eit brot paa AHO sin eigen
+spraakpolitikk, og rektor var ikkje klar over det.
+
 Direktelenkjer:
 - Khrono, AHO 1,7 % i 2022 + rektorsitat: https://www.khrono.no/vil-ha-bot-for-brot-pa-spraklova-under-fem-prosent-nynorsk-ved-fleire-universitet/776748
 - Forskerforum, AHO blant aatte med systematiske brot: https://www.forskerforum.no/systematiske-lovbrudd-over-tid/
