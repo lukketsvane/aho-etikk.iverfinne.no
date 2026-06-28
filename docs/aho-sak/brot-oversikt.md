@@ -46,12 +46,12 @@ Direkte kjeldelenkjer per verifisert funn: sjå [`kjelder/verifiserte-kjelder.md
 | 17 | Sjølvakkreditering: NOKUT kontrollerer systemet, ikkje om etikk-utbytet vert levert | Ansvarsglipe | MediumtilSterk | UH-lova § 3-4/3-5 |
 | 18 | Datatilsynet refsa AHO for dårleg skilting av overvakingskamera (2017) | Regelbrot | Medium | Datatilsynet (ironisk gitt overvakingskritikken) |
 | 19 | **Studietur til Palantir-kontrollrom («C4», Amsterdam) - stadfesta; lærarane innrømte, men var ikkje klar over koplinga** | Ansvarsglipe | Sterk | **Førstehands** (forfattar + klasse; lærarinnrømming). Tier-1-grad. Skriftleg via innsyn (A1) |
-| 20 | Forskingsetisk redelegheitsutval dekkjer ikkje design/eksternsamarbeid | Ansvarsglipe | Medium | AHO; Riksrevisjon-kopling |
+| 20 | Felles Redelighetsutvalg (AHO/KHiO/MF/NMH) dekkjer vitskapleg uredelegheit, ikkje design/eksternsamarbeid/interessekonflikt | Ansvarsglipe | Medium | AHO råd og utval; forskingsetikklova |
 | 21 | Etikk vert aldri vurdert i noko designemne | Regelbrot | Medium | Emnekatalog til innsyn (A8) |
 | 22 | Færre fordjupings-/studieplassar enn førsteval, ikkje opplyst | Løftebrot | Medium | Studieinfo; DBH |
-| 23 | Skulepengar for ikkje-EØS gav auka fråfall; ingen eigne stipend | Ansvarsglipe | Medium | AHO; DBH-fråfall |
+| 23 | Skulepengar for ikkje-EØS gav kraftig opptaksnedgang ved AHO (2023: 27 → 6 som takka ja) | Ansvarsglipe | Medium | Universitas 15.05.2023; «ingen eigne stipend» og reelt fråfall ikkje dokumentert |
 | 24 | To varslingssaker i 2023 (begge frå studentar); «manglande rutinar» ikkje dokumentert | Ansvarsglipe | Medium | Khrono 26.03.2024 (tal stadfesta); rutine-svikt krev innsyn |
-| 25 | Avlyste kritiske arrangement (Sverre Fehn-debatt 2024; AHO Works 2025) vs. «kritisk» sjølvbilde | Ansvarsglipe | Medium | offentleg omtale |
+| 25 | Avlyste kritiske arrangement (Sverre Fehn-debatt des 2024; AHO Works-semesterutstilling vår 2025) vs. «kritisk» sjølvbilde | Ansvarsglipe | Medium | arkitektur.no 06.12.2024 + 04.06.2025 (diplomutstilling held fram) |
 | 26 | Førsteamanuensis ved AHO dømd for bruk av svart arbeid (2018) | Regelbrot | Medium | dom (individ i AHO-rolle) |
 | 27 | Studiebarometeret: lågt på fysisk læringsmiljø; høg arbeidsbelastning | Ansvarsglipe | Medium | Studiebarometeret |
 

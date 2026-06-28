@@ -274,6 +274,56 @@ Direktelenkje:
 Underbyggjer brot-rad 24. Staar att: HMS-aarsrapport/styresak for aa vurdere
 sjoelve rutinane (krev innsyn).
 
+## Avlyste kritiske arrangement - STADFESTA
+
+Sverre Fehn-debatten "Sverre Fehn 100 aar - og gaatt ut paa dato?" vart avlyst ca
+5. desember 2024, omlag seks dagar foer arrangementet, med fleire hundre paamelde.
+Rektor Loenne grunngav med travelt tidspunkt ("Samtidig har vi ikke avlyst
+debatten om Fehn for evig og alltid"); tidsskriftredaktoeren meinte den kritiske
+tittelen var for belastande. AHO Works-semesterutstillinga vart avlyst vaaren 2025
+av oekonomiske grunnar (diplomutstillinga held fram).
+
+Direktelenkjer:
+- arkitektur.no 06.12.2024 (Fehn-debatt): https://www.arkitektur.no/aktuelt/arkitektur/aho-vil-snakke-om-sverre-fehn-bare-ikke-akkurat-naa/
+- arkitektur.no 04.06.2025 (AHO Works avlyst): https://www.arkitektur.no/meninger/debatt/utstillingen-aho-works-avlyst-aho-sparer-seg-til-innesluttet-fant/
+
+Underbyggjer brot-rad 25. Staar att: AHO si eiga offisielle grunngjeving.
+
+## Skulepengar ikkje-EOES og opptaksnedgang - STADFESTA (med korreksjon)
+
+Etter innfoering av studieavgift for tredjelandsstudentar hausten 2023 (363 550
+kr/aar) fall AHO-opptaket: 2022 fekk 52 tilbod og 27 takka ja; 2023 fekk 29 tilbod
+og berre 6 takka ja og betalte. Nasjonalt fall tredjelandsopptaket ca 59 prosent.
+
+Direktelenkjer:
+- Universitas 15.05.2023 (AHO-tal): https://www.universitas.no/aho-politikk-regjeringen/stor-nedgang-i-utenlandske-studenter/367225
+- Forskerforum 17.11.2023 (-59% nasjonalt): https://www.forskerforum.no/hosten-2023-ble-det-innfort-studieavgift-for-utenlandsstudenter-sa-mange-faerre-studenter-ble-tatt-opp/
+
+KORREKSJON: paastanden "ingen eigne stipend" og reelt fraafall blant innskrivne er
+IKKJE dokumentert. Reformulert til opptaksnedgang. Underbyggjer brot-rad 23.
+
+## Styreleiar Lisa Ann Cooper - STADFESTA (habilitet ope spor)
+
+Lisa Ann Cooper er styreleiar ved AHO for perioden 2025-2029. Ho har ein brei
+portefoelje ("12 roller i norsk naeringsliv" per proff.no), men INGEN konkret
+habilitetskonflikt er dokumentert; dette er eit ope kartleggingsspor (Brreg).
+
+Direktelenkjer:
+- AHO styreoversikt: https://www.aho.no/om/organisasjon/styret/
+- AHO nytt styre 09.10.2025: https://www.aho.no/om/nyheter/aktuelt/nytt-styre-for-aho.html
+
+Underbyggjer brot-rad 29. Staar att: gjeldande rolleliste fraa Brreg/proff.no.
+
+## Felles Redelighetsutvalg - STADFESTA
+
+AHO har ikkje eige redelegheitsutval, men er med i eit felles utval saman med
+KHiO, MF og NMH. Mandatet dekkjer vitskapleg uredelegheit (forfalsking,
+fabrikkering, plagiering, jf. forskingsetikklova) og kunstnarisk utviklingsarbeid.
+Det er IKKJE dokumentert at mandatet dekkjer design/eksternsamarbeid eller
+interessekonfliktar/kommersielle bindingar.
+
+Kjelde: AHO "raad og utval" (aho.no/om/organisasjon). Underbyggjer brot-rad 20.
+
 ## Lagra primaerdokument (filer i repoet)
 
 Desse primaerkjeldene er lasta ned og lagra under
