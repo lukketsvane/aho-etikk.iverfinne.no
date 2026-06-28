@@ -45,6 +45,9 @@ Dette er **hypotesen som skal provast eller avkreftast** — ikkje ein konklusjo
 
 | Fil | Innhald |
 | --- | --- |
+| [`bevis-matrise.md`](bevis-matrise.md) | **Samla matrise**: alle påstandar/funn (A/B/C) → status, styrke, kjelde |
+| [`research/`](research/) | Rundelogg (runde 1–3) med verifisering mot primærkjelder |
+| [`kjelder/`](kjelder/) | Kjeldeindeksar: årsrapportar, styremøte, eInnsyn-journalpostar, brev |
 | [`kjelder-aho.md`](kjelder-aho.md) | AHO-spesifikke primærkjelder og oppslag |
 | [`tidslinje.md`](tidslinje.md) | Tidslinje (dato · hending · kjelde · status) |
 | [`aktorer.md`](aktorer.md) | Aktørregister-mal (ikkje persondata — peikar til Notion) |
