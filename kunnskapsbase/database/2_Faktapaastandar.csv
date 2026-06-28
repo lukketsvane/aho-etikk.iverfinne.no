@@ -1,0 +1,25 @@
+ID,Påstand,Status,Primærkjelde,Arkiv,Dokument,Relevans
+F1,NKR nivå 7-etikkdeskriptoren lyder verbatim som sitert,A,regjeringen.no Vedlegg I; NOKUT,TODO,Til Steinar Killi; Til Irene,Lovpålagt utbytte (lovbrot)
+F2,AHO design-master (kull 2024) listar etikk-refleksjonsutbytte,A,ny.emweb.no/aho/en/node/19936/full-print,TODO,Studieplan 2024,Lovbrot rad 2
+F3,Ingen vurdering/karakter knytt spesifikt til etikk-utbyttet,A/B,emweb-studieplan (A); GK4-ordlyd «legge til en bærekraftshandling i designet» (B),TODO,GK4-oppgåve,Kjernen i lovbrot-tesen
+F4,AHO er vitskapleg høgskule med sjølvakkrediteringsrett på master,A,nokut.no akkrediterte institusjonar; snl.no,TODO,Til Irene; Til Steinar,Forklarar berre-kvalitetssystem-kontroll
+F5,Søkjartala halverte: 4414 (2021) → 2131 (2026),A,arkitektur.no «Dramatisk nedgang…» (23.4.2026); NTB,TODO,Tabell rad 1,Konsekvens av løftebrot
+F6,Rektor (apr 2026): kritisk tenking «kjennetegner utdanningene våre»,A,arkitektur.no «Dramatisk nedgang…»,TODO,Tabell rad 1,Løftebrot rad 4
+F7,Rektor avgangstale 12.6.2026 + sosial berekraft «en del av det»,A,aho.no …skape-endringene-samfunnet-trenger,TODO,Tabell rad 3; Til Irene,Løftebrot rad 4
+F8,AHO (apr 2024): «et selvfølgelig valg for dem som vil jobbe for en sosialt og klimamessig bærekraftig framtid»,A,arkitektur.no «Færre søkere…» (26.4.2024),TODO,Tabell rad 3,Løftebrot rad 3 (verbatim)
+F9,AHO inngjekk Kongsberg-samarbeidsavtale (apr 2025),A,arkitektur.no «Inngår samarbeidsavtale med Kongsberg»,TODO,Til Irene; Til Steinar,Løftebrot rad 3
+F10,Demonstrasjon mot Kongsberg-avtalen ved AHO,A,arkitektur.no «Demonstrerer mot Kongsberg-avtale» (2.5.2025),TODO,Til Steinar,Kontekst; dato 14-15.5 er B
+F11,AHO-styremøte 10.3.2023 omtalar berekraft som «viktig tematikk»,B,aho.no styremøte-PDF (forfattaroppgjeven),TODO,Tabell rad 4,Løftebrot-kontekst
+F12,Nederlandsk justisminister stadfesta Palantir-masseovervaking (aug 2025),A,nltimes.nl (22.8.2025); ftm.nl; de Volkskrant,TODO,Klassetur til Mordor,Amsterdam-turen faktagrunnlag
+F13,"Palantir-kontrakt kjøpt i løynd utan anbod (2018), avslørt via rettssak",A,ftm.nl; nltimes.nl; ibestuur.nl,TODO,Til Steinar,Faktagrunnlag
+F14,C4-feltbesøk sept 2025 til Palantir «Raffinaderij» + «ask proactively…»,B,Forfattardokumentert (intern AHO-info),Treng korroborering,Til Irene; Til Steinar,Sentral i Palantir-sporet - manglar offentleg kjelde
+F15,Forbrukerrådet «Breaking Free»-rapport + ope brev 27.2.2026,A,storage02.forbrukerradet.no; theregister.com (6.3.2026),TODO,DESIGNFAGET MANGLER ET NEI,Enshittification-sporet
+F16,"Parallelt EU-brev 27.2.2026 (EFF, Access Now, Doctorow m.fl.)",A,tomshardware.com; abit.ee; tacd.org,TODO,Til Steinar,Enshittification-sporet
+F17,Ingen norsk designskule/designorgan underskreiv; berre éin designar,B,Forfattardokumentert; signaturlista ikkje verifisert,Treng henting,DESIGNFAGET; Til Steinar,Skarpaste retoriske poeng - MÅ verifiserast
+F18,"Storebrand ekskluderte Palantir (okt 2024), ~262 mill. kr",A,Reuters via business-humanrights.org; amwatch.com,TODO,Klassetur til Mordor,Norsk institusjonell presedens
+F19,Palantir grunnlagt 2003 (Thiel m.fl.); In-Q-Tel (CIA) investerte,A,The Intercept (22.2.2017); ftm.nl,TODO,Klassetur; Til Irene,Palantir-bakgrunn
+F20,"+972 (3.4.2024): Lavender ≥37 000 mål, ~10% feilrate; «Where's Daddy?»",A,972mag.com/lavender-ai-israeli-army-gaza/; democracynow.org,TODO,Klassetur; Til Irene,Palantir/AI-krigføring
+F21,ICE-Palantir $30 mill.-kontrakt (apr 2025) for ImmigrationOS,A,aclu.org; axios.com; sec.gov,TODO,Til Steinar; Til Irene,Palantir/menneskerett
+F22,"US-åtak Minab, Iran 28.2.2026: 160+ drepne, mest jenter 7-12",B,amnesty.org 2026/03; hrw.org 2026/04/20 (UVERIFISERT i denne runden),MÅ verifiserast,Til Steinar; Til Irene,Palantir/AI-målfeil - krev primærkjelde
+F23,Nederlandsk politi arresterte Anne Frank (institusjonell forløpar),B,annefrank.org (ikkje henta),MÅ verifiserast,Til Steinar,Retorisk ramme Amsterdam
+F24,~47 vs ~78 nordiske skular (TALSPRIK); AHO ein av to utan etisk prosedyre,B,Forfattaren si eiga kartlegging,Treng uavh. verifisering,Til Irene (47); Til Steinar (78),Sterk påstand; talsprik svekkjer

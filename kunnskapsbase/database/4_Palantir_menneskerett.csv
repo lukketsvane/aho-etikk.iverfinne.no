@@ -1,0 +1,14 @@
+ID,Element,Eksakt sitering/tekst,Kjelde,Status
+P1,UDHR art. 12 (privatliv),"«No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence…»",un.org; ohchr.org,A
+P2,UDHR art. 13 (rørslefridom),«Everyone has the right to freedom of movement and residence within the borders of each State.»,ohchr.org,A
+P3,UDHR art. 19 (ytringsfridom),"«Everyone has the right to freedom of opinion and expression…to seek, receive and impart information…»",un.org; ohchr.org,A
+P4,GDPR art. 35 (DPIA),«Where a type of processing…using new technologies…is likely to result in a high risk…the controller shall…carry out an assessment…»,gdpr-info.eu/art-35-gdpr/,A/C
+P5,Personopplysningsloven,LOV-2018-06-15-38 gjer GDPR til norsk rett,Lovdata,C
+P6,EU AI Act art. 5 (forbod),Forbyr social scoring + predictive policing basert på profilering + sanntids biometrisk fjernidentifikasjon i offentleg rom,artificialintelligenceact.eu/article/5/,A/C
+P7,Palantir-opphav,Grunnlagt 2003 (Thiel m.fl.); In-Q-Tel (CIA) ~$2 mill. ~2004-05,The Intercept (22.2.2017); ftm.nl,A
+P8,Lavender / Where's Daddy?,"≥37 000 målanbefalingar, ~10% feilrate; sporar mål til familieheimen for nattlege åtak","972mag.com (Abraham, 3.4.2024); HRW",A
+P9,ICE / ImmigrationOS,$30 mill.-kontrakt (apr 2025); ICM sole-source >$145 mill.,aclu.org; axios.com; sec.gov,A
+P10,Nederlandsk politi / Raffinaderij,Hemmeleg Palantir-bruk; kjøpt utan anbod; 99% av Woo-dokument sladda,nltimes.nl; ftm.nl; ibestuur.nl,A
+P11,Storebrand-eksklusjon,"Ekskludert okt 2024, ~262 mill. kr; grunngjeving: sal til Israel for bruk i okkupert område",business-humanrights.org (Reuters); amwatch.com,A
+P12,Minab-åtaket (28.2.2026),"160+ drepne, hovudsakleg jenter 7-12",amnesty.org / hrw.org (OPPGJEVEN),B - uverifisert
+P13,Anne Frank / nederlandsk politi,annefrank.org om arrestasjon og politiets rolle under okkupasjonen,annefrank.org (OPPGJEVEN),B - uverifisert

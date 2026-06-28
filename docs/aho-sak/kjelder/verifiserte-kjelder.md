@@ -255,6 +255,25 @@ Direktelenkje:
 
 Underbyggjer brot-rad 6.
 
+## Varslingssaker 2023 - STADFESTA (med korreksjon)
+
+Khrono fekk oppgitt fraa AHO at hoegskulen mottok to varsel i 2023, begge fraa
+studentar. KORREKSJON: paastanden "manglande rutinar" er IKKJE dokumentert; AHO
+rapporterer ikkje varslingstal i aarsrapportane (kontrollert 2017-2025), og inga
+kjelde koplar dei to 2023-sakene til svikt i sjoelve varslingsrutinane. Funnet
+boer tidfestast til 2023.
+
+Ordrett (Khrono 26.03.2024):
+- "Arkitektur- og designhoegskolen mottok 2 varsler i 2023, begge var fra
+  studenter. Den ene varslet om en relasjon mellom student og laerer, den andre
+  om laererens oppfoersel i undervisningssituasjoner."
+
+Direktelenkje:
+- Khrono 26.03.2024: https://www.khrono.no/kjefting-laeringsmiljo-og-ros-dette-varslet-ansatte-og-studenter-om-i-2023/852815
+
+Underbyggjer brot-rad 24. Staar att: HMS-aarsrapport/styresak for aa vurdere
+sjoelve rutinane (krev innsyn).
+
 ## Lagra primaerdokument (filer i repoet)
 
 Desse primaerkjeldene er lasta ned og lagra under

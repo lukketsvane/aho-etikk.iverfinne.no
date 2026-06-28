@@ -50,7 +50,7 @@ Direkte kjeldelenkjer per verifisert funn: sjå [`kjelder/verifiserte-kjelder.md
 | 21 | Etikk vert aldri vurdert i noko designemne | Regelbrot | Medium | Emnekatalog til innsyn (A8) |
 | 22 | Færre fordjupings-/studieplassar enn førsteval, ikkje opplyst | Løftebrot | Medium | Studieinfo; DBH |
 | 23 | Skulepengar for ikkje-EØS gav auka fråfall; ingen eigne stipend | Ansvarsglipe | Medium | AHO; DBH-fråfall |
-| 24 | To varslingssaker (begge frå studentar); manglande rutinar | Ansvarsglipe | Medium | innsyn |
+| 24 | To varslingssaker i 2023 (begge frå studentar); «manglande rutinar» ikkje dokumentert | Ansvarsglipe | Medium | Khrono 26.03.2024 (tal stadfesta); rutine-svikt krev innsyn |
 | 25 | Avlyste kritiske arrangement (Sverre Fehn-debatt 2024; AHO Works 2025) vs. «kritisk» sjølvbilde | Ansvarsglipe | Medium | offentleg omtale |
 | 26 | Førsteamanuensis ved AHO dømd for bruk av svart arbeid (2018) | Regelbrot | Medium | dom (individ i AHO-rolle) |
 | 27 | Studiebarometeret: lågt på fysisk læringsmiljø; høg arbeidsbelastning | Ansvarsglipe | Medium | Studiebarometeret |
