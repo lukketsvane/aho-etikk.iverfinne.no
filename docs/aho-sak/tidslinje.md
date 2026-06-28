@@ -11,7 +11,7 @@ Speglar Notion-sida «Tidslinje: AHO og krinsen». Sorter nyast nedst.
 | 2025-08-22 | Nederlandsk regjering stadfestar Palantir-bruk; rammar det som avgrensa analyse, **ikkje** masseovervaking | Kontekst (B2 ⛔) | 🟢 | Kamervragen; Volkskrant |
 | 2025-09 | Påstått: Institutt for design tek designstudentar til «C4» (politiet, Amsterdam); «demo» | Kjernefunn (A1) | 🔴 | Brev til Killi (ikkje eksternt stadfesta) |
 | 2026-02-27 | Forbrukerrådet: rapport «Breaking Free…» + brev til regjeringa (58 org.) + EU-brev (29 org.) | Kontekst (B5–B6) | 🟢 | forbrukerradet.no |
-| 2026-02-28 | Påstått åtak mot skule i Minab (talsprik: 148/150/160) | Kontekst (B4) | 🔴 | Brev til Killi (sensitivt, uverifisert) |
+| 2026-02-28 | Åtak mot skule i Minab (Tomahawk; ~156 drepne, fleirtal barn; sannsynleg US-ansvar via utdatert etterretning) | Kontekst (B4) | 🟢 hending / 🟡 detaljar | Reuters/AP/BBC Verify/OHCHR/Amnesty/HRW |
 | 2026-04-23 | Rektor Irene Alma Lønne: kritisk tenking «kjennetegner utdanningene våre» (søkjartal 2026) | Kjernefunn (A4) | 🟢 | arkitektur.no |
 | 2026-06-12 | Avgangsseremoni: rektor om «menneskelig» teknologi og sosial berekraft | Kjernefunn (A3) | 🔴 | Brev til Killi |
 | 2026-06 | Brev til Steinar Killi sendt/utforma | Sakshending | 🟢 | Dette repoet (kjeldedokument) |
