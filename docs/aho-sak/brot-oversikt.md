@@ -14,6 +14,8 @@ Datatilsynet, Språkrådet, Arbeidstilsynet, eller offentleg publisering).
 
 Styrke: Sterk (primærkjeldefesta, toler tilsvar) / Medium (krev litt meir) / Svak (treng innsyn/verifisering).
 
+Direkte kjeldelenkjer per verifisert funn: sjå [`kjelder/verifiserte-kjelder.md`](kjelder/verifiserte-kjelder.md) (språklov, Datatilsynet, Kongsberg/OICL/F-35, fryktkultur, vikarbruk).
+
 ---
 
 ## TIER 1 - Klarast / sterkast (toler formell sak eller publisering no)
