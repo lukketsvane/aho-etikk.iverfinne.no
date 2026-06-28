@@ -19,7 +19,7 @@ treng innsyn · ⛔ avkrefta/overdrive. Styrke: Sterk / Medium / Svak.
 | A7 | Vurdering skal vere tilpassa læringsutbytet (lovpålagt) | 🟢 | Sterk | UH-forskrifta **§ 1-11 c/e** (FOR-2024-06-28-1392), erstatta oppheva studietilsynsforskrift § 2-2 |
 | A8 | Etikk-utbytet vert ikkje prøvd/vurdert | 🟡 | Medium | Ingen etikk-emne/vurderingsform i studieplan; emnenivå → innsyn (`A8`). Støtta av NOKUT § 4-1(3) 2018 |
 | A9 | AHO sjølvakkrediterer; ekstern kontroll = kvalitetssystem | 🟢 | Sterk | UH-lova § 3-4/§ 3-5; NOKUT (vitskapleg høgskule) |
-| A10 | Inga designspesifikk etisk «nei»-instans | 🟢 | Sterk | Forskingsetisk organ finst, men **Riksrevisjonen (2022)** namngir AHO for manglande oppfølging av forskingsetiske retningsliner; ingen eksternprosedyre/reservasjonsrett (benchmark) |
+| A10 | Inga designspesifikk etisk «nei»-instans | 🟢 | Sterk | Forskingsetisk organ finst, men **Riksrevisjonen (2022)** namngir AHO for manglande oppfølging av forskingsetiske retningsliner; **inga due-diligence av eksterne partnarar i nokon styresak** (C11); ingen reservasjonsrett (benchmark) |
 | A11 | «AHO éin av berre 2 av 78» utan etisk eksternprosedyre | ⛔→🟢 | Medium | «2 av 78» **falsk** (64 koda); men **omformulert held**: 7 av 11 norske har eksternprosedyre AHO manglar |
 | A12 | Kronikkutkast: dusinvis studentunderskrifter + 7 faglærarar | 🟡 | — | Intern liste; krev stadfesting |
 
@@ -46,9 +46,12 @@ treng innsyn · ⛔ avkrefta/overdrive. Styrke: Sterk / Medium / Svak.
 | C5 | Utviklingsavtale KD 2023–2026 forpliktar AHO til berekraft gjennomgåande | 🟢 | Sterk | regjeringen.no; TB2023–2025 |
 | C6 | Etikk/berekraft i liten grad operasjonalisert i styrevedtak | 🟡 | Medium | Ingen «bærekraft»-vedtak 2018–20; ingen eige etikk-vedtak 2024–26 |
 | C7 | Etikk-/berekraft-retorikk er programmarknadsføring, ikkje institusjonell | 🟢 | Medium | Wayback: «Om AHO» 2011–25 utan slikt språk; fråvær 2014 → marknadsføring 2019→ |
-| C8 | Design-studieplassar bygde ned (2023–24) | 🟡 | Medium | Årsrapport 2023; styresak 7/24 |
+| C8 | Design-studieplassar/-årsverk bygde ned (2024–27) | 🟢 | Medium | Styresak 47/24, 49/24, 47/26. **Grunngjeving økonomisk/KD-driven** (Utdanningsløftet-plassar fasa ut; −30–35 mill./11–13% frå 2026); kutt 3 årsverk (tjeneste-/systemorientert design) |
 | C9 | KD-oppfølging av NOKUT-kontroll med samfunnssikkerhet/beredskap ved AHO | 🟡 | — | eInnsyn saksnr 2020/4663 (2021) — innsyn |
 | C10 | AHO ikkje journaleining i eInnsyn (intern journal berre via direkte innsyn) | 🟢 | Sterk | eInnsyn API (metodefunn) |
+| C11 | **Inga aktsemdsvurdering (due diligence) av eksterne partnarar** i styredok. | 🟢 | Sterk | Fulltekst 6 styre-saksframlegg: berre ambisjon om meir ekstern finansiering, ingen etisk screening-prosedyre → stør A10/A11 |
+| C12 | Utviklingsavtale 2027–2030 mindre eksplisitt på berekraft-som-kjerne | 🟡 | Medium | Sak 43/26: tyngdepunkt portefølje/finansiering/partnarskap (vs. 2023–26 «ruste studentene til bærekraftig samfunn») |
+| C13 | Gaza-utsegn (juni 2024) + studentkrav om akademisk boikott/divest | 🟢 | Medium | Sak 37/24; SAHO-vedlegg (HP/Dell, Bezalel) — kontekst for overvakingsteknologi-vinkelen |
 
 ## Samla bilete (nøytralt)
 
